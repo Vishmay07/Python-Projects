@@ -1,0 +1,1004 @@
+{
+  "places": [
+    {
+      "name": "Eiffel Tower",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Eiffel+Tower",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "Paris, France"
+    },
+    {
+      "name": "Bora Bora",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bora_Bora_Island_French_Polynesia.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Bora+Bora",
+      "category": "Beach",
+      "rating": 4.8,
+      "location": "French Polynesia"
+    },
+    {
+      "name": "Banff National Park",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/68/Moraine_Lake_17092005.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Banff+National+Park",
+      "category": "Mountains",
+      "rating": 4.9,
+      "location": "Alberta, Canada"
+    },
+    {
+      "name": "Great Wall of China",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Great_Wall_of_China_at_Jinshanling-edit.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Great+Wall+of+China",
+      "category": "Attraction Places",
+      "rating": 4.6,
+      "location": "China"
+    },
+    {
+      "name": "Santorini",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1d/Santorini_Island_Greece.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Santorini",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "Greece"
+    },
+    {
+      "name": "Machu Picchu",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Machu+Picchu",
+      "category": "Attraction Places",
+      "rating": 4.5,
+      "location": "Peru"
+    },
+    {
+      "name": "Grand Canyon",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a3/Grand_Canyon_view_from_South_Rim_2009.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Grand+Canyon",
+      "category": "Mountains",
+      "rating": 4.6,
+      "location": "Arizona, USA"
+    },
+    {
+      "name": "Sydney Opera House",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/45/Sydney_Opera_House_-_Dec_2008.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Sydney+Opera+House",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "Sydney, Australia"
+    },
+    {
+      "name": "Taj Mahal",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Taj+Mahal",
+      "category": "Attraction Places",
+      "rating": 4.8,
+      "location": "Agra, India"
+    },
+    {
+      "name": "Colosseum",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/Colosseo_2020.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Colosseum",
+      "category": "Attraction Places",
+      "rating": 4.9,
+      "location": "Rome, Italy"
+    },
+    {
+      "name": "Mount Everest",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Mount+Everest",
+      "category": "Mountains",
+      "rating": 4.5,
+      "location": "Nepal/Tibet"
+    },
+    {
+      "name": "Statue of Liberty",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Statue_of_Liberty%2C_NY.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Statue+of+Liberty",
+      "category": "Attraction Places",
+      "rating": 4.6,
+      "location": "New York, USA"
+    },
+    {
+      "name": "Petra",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Petra_Jordan_BW_21.JPG"
+      ],
+      "location_image": "https://www.google.com/maps/place/Petra",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "Jordan"
+    },
+    {
+      "name": "Christ the Redeemer",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/16/Christ_the_Redeemer_-_Cristo_Redentor.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Christ+the+Redeemer",
+      "category": "Attraction Places",
+      "rating": 4.8,
+      "location": "Rio de Janeiro, Brazil"
+    },
+    {
+      "name": "Blue Lagoon",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7e/Blue_Lagoon%2C_Iceland_%282697097877%29.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Blue+Lagoon",
+      "category": "Lake",
+      "rating": 4.9,
+      "location": "Iceland"
+    },
+    {
+      "name": "Yellowstone National Park",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/Morning_Glory_Pool.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Yellowstone+National+Park",
+      "category": "Mountains",
+      "rating": 4.5,
+      "location": "USA"
+    },
+    {
+      "name": "Angkor Wat",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a1/Angkor_Wat_wat.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Angkor+Wat",
+      "category": "Attraction Places",
+      "rating": 4.6,
+      "location": "Cambodia"
+    },
+    {
+      "name": "Big Ben",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/Houses_of_Parliament%2C_London_-_Feb_2007.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Big+Ben",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "London, UK"
+    },
+    {
+      "name": "Great Barrier Reef",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6f/Great_Barrier_Reef.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Great+Barrier+Reef",
+      "category": "Beach",
+      "rating": 4.8,
+      "location": "Australia"
+    },
+    {
+      "name": "Mount Fuji",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/11/Mount_Fuji_from_Hakone.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Mount+Fuji",
+      "category": "Mountains",
+      "rating": 4.9,
+      "location": "Japan"
+    },
+    {
+      "name": "Mount Everest",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Mount+Everest",
+      "category": "Mountains",
+      "rating": 4.5,
+      "location": "Nepal/Tibet"
+    },
+    {
+      "name": "Statue of Liberty",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Statue_of_Liberty%2C_NY.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Statue+of+Liberty",
+      "category": "Attraction Places",
+      "rating": 4.6,
+      "location": "New York, USA"
+    },
+    {
+      "name": "Petra",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Petra_Jordan_BW_21.JPG"
+      ],
+      "location_image": "https://www.google.com/maps/place/Petra",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "Jordan"
+    },
+    {
+      "name": "Christ the Redeemer",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/16/Christ_the_Redeemer_-_Cristo_Redentor.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Christ+the+Redeemer",
+      "category": "Attraction Places",
+      "rating": 4.8,
+      "location": "Rio de Janeiro, Brazil"
+    },
+    {
+      "name": "Blue Lagoon",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7e/Blue_Lagoon%2C_Iceland_%282697097877%29.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Blue+Lagoon",
+      "category": "Lake",
+      "rating": 4.9,
+      "location": "Iceland"
+    },
+    {
+      "name": "Yellowstone National Park",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/Morning_Glory_Pool.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Yellowstone+National+Park",
+      "category": "Mountains",
+      "rating": 4.5,
+      "location": "USA"
+    },
+    {
+      "name": "Angkor Wat",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a1/Angkor_Wat_wat.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Angkor+Wat",
+      "category": "Attraction Places",
+      "rating": 4.6,
+      "location": "Cambodia"
+    },
+    {
+      "name": "Big Ben",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/Houses_of_Parliament%2C_London_-_Feb_2007.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Big+Ben",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "London, UK"
+    },
+    {
+      "name": "Great Barrier Reef",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6f/Great_Barrier_Reef.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Great+Barrier+Reef",
+      "category": "Beach",
+      "rating": 4.8,
+      "location": "Australia"
+    },
+    {
+      "name": "Mount Fuji",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/11/Mount_Fuji_from_Hakone.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Mount+Fuji",
+      "category": "Mountains",
+      "rating": 4.9,
+      "location": "Japan"
+    },
+    {
+      "name": "Mount Everest",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Mount+Everest",
+      "category": "Mountains",
+      "rating": 4.5,
+      "location": "Nepal/Tibet"
+    },
+    {
+      "name": "Statue of Liberty",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Statue_of_Liberty%2C_NY.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Statue+of+Liberty",
+      "category": "Attraction Places",
+      "rating": 4.6,
+      "location": "New York, USA"
+    },
+    {
+      "name": "Petra",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Petra_Jordan_BW_21.JPG"
+      ],
+      "location_image": "https://www.google.com/maps/place/Petra",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "Jordan"
+    },
+    {
+      "name": "Christ the Redeemer",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/16/Christ_the_Redeemer_-_Cristo_Redentor.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Christ+the+Redeemer",
+      "category": "Attraction Places",
+      "rating": 4.8,
+      "location": "Rio de Janeiro, Brazil"
+    },
+    {
+      "name": "Blue Lagoon",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7e/Blue_Lagoon%2C_Iceland_%282697097877%29.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Blue+Lagoon",
+      "category": "Lake",
+      "rating": 4.9,
+      "location": "Iceland"
+    },
+    {
+      "name": "Yellowstone National Park",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/Morning_Glory_Pool.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Yellowstone+National+Park",
+      "category": "Mountains",
+      "rating": 4.5,
+      "location": "USA"
+    },
+    {
+      "name": "Angkor Wat",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a1/Angkor_Wat_wat.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Angkor+Wat",
+      "category": "Attraction Places",
+      "rating": 4.6,
+      "location": "Cambodia"
+    },
+    {
+      "name": "Big Ben",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/Houses_of_Parliament%2C_London_-_Feb_2007.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Big+Ben",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "London, UK"
+    },
+    {
+      "name": "Great Barrier Reef",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6f/Great_Barrier_Reef.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Great+Barrier+Reef",
+      "category": "Beach",
+      "rating": 4.8,
+      "location": "Australia"
+    },
+    {
+      "name": "Mount Fuji",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/11/Mount_Fuji_from_Hakone.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Mount+Fuji",
+      "category": "Mountains",
+      "rating": 4.9,
+      "location": "Japan"
+    },
+    {
+      "name": "Mount Everest",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Mount+Everest",
+      "category": "Mountains",
+      "rating": 4.5,
+      "location": "Nepal/Tibet"
+    },
+    {
+      "name": "Statue of Liberty",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Statue_of_Liberty%2C_NY.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Statue+of+Liberty",
+      "category": "Attraction Places",
+      "rating": 4.6,
+      "location": "New York, USA"
+    },
+    {
+      "name": "Petra",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Petra_Jordan_BW_21.JPG"
+      ],
+      "location_image": "https://www.google.com/maps/place/Petra",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "Jordan"
+    },
+    {
+      "name": "Christ the Redeemer",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/16/Christ_the_Redeemer_-_Cristo_Redentor.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Christ+the+Redeemer",
+      "category": "Attraction Places",
+      "rating": 4.8,
+      "location": "Rio de Janeiro, Brazil"
+    },
+    {
+      "name": "Blue Lagoon",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7e/Blue_Lagoon%2C_Iceland_%282697097877%29.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Blue+Lagoon",
+      "category": "Lake",
+      "rating": 4.9,
+      "location": "Iceland"
+    },
+    {
+      "name": "Yellowstone National Park",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/Morning_Glory_Pool.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Yellowstone+National+Park",
+      "category": "Mountains",
+      "rating": 4.5,
+      "location": "USA"
+    },
+    {
+      "name": "Angkor Wat",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a1/Angkor_Wat_wat.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Angkor+Wat",
+      "category": "Attraction Places",
+      "rating": 4.6,
+      "location": "Cambodia"
+    },
+    {
+      "name": "Big Ben",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/Houses_of_Parliament%2C_London_-_Feb_2007.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Big+Ben",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "London, UK"
+    },
+    {
+      "name": "Great Barrier Reef",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6f/Great_Barrier_Reef.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Great+Barrier+Reef",
+      "category": "Beach",
+      "rating": 4.8,
+      "location": "Australia"
+    },
+    {
+      "name": "Mount Fuji",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/11/Mount_Fuji_from_Hakone.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Mount+Fuji",
+      "category": "Mountains",
+      "rating": 4.9,
+      "location": "Japan"
+    },
+    {
+      "name": "Mount Everest",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Mount+Everest",
+      "category": "Mountains",
+      "rating": 4.5,
+      "location": "Nepal/Tibet"
+    },
+    {
+      "name": "Statue of Liberty",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Statue_of_Liberty%2C_NY.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Statue+of+Liberty",
+      "category": "Attraction Places",
+      "rating": 4.6,
+      "location": "New York, USA"
+    },
+    {
+      "name": "Petra",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Petra_Jordan_BW_21.JPG"
+      ],
+      "location_image": "https://www.google.com/maps/place/Petra",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "Jordan"
+    },
+    {
+      "name": "Christ the Redeemer",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/16/Christ_the_Redeemer_-_Cristo_Redentor.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Christ+the+Redeemer",
+      "category": "Attraction Places",
+      "rating": 4.8,
+      "location": "Rio de Janeiro, Brazil"
+    },
+    {
+      "name": "Blue Lagoon",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7e/Blue_Lagoon%2C_Iceland_%282697097877%29.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Blue+Lagoon",
+      "category": "Lake",
+      "rating": 4.9,
+      "location": "Iceland"
+    },
+    {
+      "name": "Yellowstone National Park",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/Morning_Glory_Pool.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Yellowstone+National+Park",
+      "category": "Mountains",
+      "rating": 4.5,
+      "location": "USA"
+    },
+    {
+      "name": "Angkor Wat",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a1/Angkor_Wat_wat.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Angkor+Wat",
+      "category": "Attraction Places",
+      "rating": 4.6,
+      "location": "Cambodia"
+    },
+    {
+      "name": "Big Ben",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/Houses_of_Parliament%2C_London_-_Feb_2007.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Big+Ben",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "London, UK"
+    },
+    {
+      "name": "Great Barrier Reef",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6f/Great_Barrier_Reef.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Great+Barrier+Reef",
+      "category": "Beach",
+      "rating": 4.8,
+      "location": "Australia"
+    },
+    {
+      "name": "Mount Fuji",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/11/Mount_Fuji_from_Hakone.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Mount+Fuji",
+      "category": "Mountains",
+      "rating": 4.9,
+      "location": "Japan"
+    },
+    {
+      "name": "Mount Everest",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Mount+Everest",
+      "category": "Mountains",
+      "rating": 4.5,
+      "location": "Nepal/Tibet"
+    },
+    {
+      "name": "Statue of Liberty",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Statue_of_Liberty%2C_NY.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Statue+of+Liberty",
+      "category": "Attraction Places",
+      "rating": 4.6,
+      "location": "New York, USA"
+    },
+    {
+      "name": "Petra",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Petra_Jordan_BW_21.JPG"
+      ],
+      "location_image": "https://www.google.com/maps/place/Petra",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "Jordan"
+    },
+    {
+      "name": "Christ the Redeemer",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/16/Christ_the_Redeemer_-_Cristo_Redentor.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Christ+the+Redeemer",
+      "category": "Attraction Places",
+      "rating": 4.8,
+      "location": "Rio de Janeiro, Brazil"
+    },
+    {
+      "name": "Blue Lagoon",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7e/Blue_Lagoon%2C_Iceland_%282697097877%29.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Blue+Lagoon",
+      "category": "Lake",
+      "rating": 4.9,
+      "location": "Iceland"
+    },
+    {
+      "name": "Yellowstone National Park",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/Morning_Glory_Pool.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Yellowstone+National+Park",
+      "category": "Mountains",
+      "rating": 4.5,
+      "location": "USA"
+    },
+    {
+      "name": "Angkor Wat",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a1/Angkor_Wat_wat.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Angkor+Wat",
+      "category": "Attraction Places",
+      "rating": 4.6,
+      "location": "Cambodia"
+    },
+    {
+      "name": "Big Ben",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/Houses_of_Parliament%2C_London_-_Feb_2007.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Big+Ben",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "London, UK"
+    },
+    {
+      "name": "Great Barrier Reef",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6f/Great_Barrier_Reef.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Great+Barrier+Reef",
+      "category": "Beach",
+      "rating": 4.8,
+      "location": "Australia"
+    },
+    {
+      "name": "Mount Fuji",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/11/Mount_Fuji_from_Hakone.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Mount+Fuji",
+      "category": "Mountains",
+      "rating": 4.9,
+      "location": "Japan"
+    },
+    {
+      "name": "Mount Everest",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Mount+Everest",
+      "category": "Mountains",
+      "rating": 4.5,
+      "location": "Nepal/Tibet"
+    },
+    {
+      "name": "Statue of Liberty",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Statue_of_Liberty%2C_NY.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Statue+of+Liberty",
+      "category": "Attraction Places",
+      "rating": 4.6,
+      "location": "New York, USA"
+    },
+    {
+      "name": "Petra",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Petra_Jordan_BW_21.JPG"
+      ],
+      "location_image": "https://www.google.com/maps/place/Petra",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "Jordan"
+    },
+    {
+      "name": "Christ the Redeemer",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/16/Christ_the_Redeemer_-_Cristo_Redentor.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Christ+the+Redeemer",
+      "category": "Attraction Places",
+      "rating": 4.8,
+      "location": "Rio de Janeiro, Brazil"
+    },
+    {
+      "name": "Blue Lagoon",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7e/Blue_Lagoon%2C_Iceland_%282697097877%29.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Blue+Lagoon",
+      "category": "Lake",
+      "rating": 4.9,
+      "location": "Iceland"
+    },
+    {
+      "name": "Yellowstone National Park",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/Morning_Glory_Pool.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Yellowstone+National+Park",
+      "category": "Mountains",
+      "rating": 4.5,
+      "location": "USA"
+    },
+    {
+      "name": "Angkor Wat",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a1/Angkor_Wat_wat.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Angkor+Wat",
+      "category": "Attraction Places",
+      "rating": 4.6,
+      "location": "Cambodia"
+    },
+    {
+      "name": "Big Ben",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/Houses_of_Parliament%2C_London_-_Feb_2007.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Big+Ben",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "London, UK"
+    },
+    {
+      "name": "Great Barrier Reef",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6f/Great_Barrier_Reef.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Great+Barrier+Reef",
+      "category": "Beach",
+      "rating": 4.8,
+      "location": "Australia"
+    },
+    {
+      "name": "Mount Fuji",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/11/Mount_Fuji_from_Hakone.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Mount+Fuji",
+      "category": "Mountains",
+      "rating": 4.9,
+      "location": "Japan"
+    },
+    {
+      "name": "Mount Everest",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Mount+Everest",
+      "category": "Mountains",
+      "rating": 4.5,
+      "location": "Nepal/Tibet"
+    },
+    {
+      "name": "Statue of Liberty",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Statue_of_Liberty%2C_NY.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Statue+of+Liberty",
+      "category": "Attraction Places",
+      "rating": 4.6,
+      "location": "New York, USA"
+    },
+    {
+      "name": "Petra",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Petra_Jordan_BW_21.JPG"
+      ],
+      "location_image": "https://www.google.com/maps/place/Petra",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "Jordan"
+    },
+    {
+      "name": "Christ the Redeemer",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/16/Christ_the_Redeemer_-_Cristo_Redentor.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Christ+the+Redeemer",
+      "category": "Attraction Places",
+      "rating": 4.8,
+      "location": "Rio de Janeiro, Brazil"
+    },
+    {
+      "name": "Blue Lagoon",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7e/Blue_Lagoon%2C_Iceland_%282697097877%29.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Blue+Lagoon",
+      "category": "Lake",
+      "rating": 4.9,
+      "location": "Iceland"
+    },
+    {
+      "name": "Yellowstone National Park",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/Morning_Glory_Pool.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Yellowstone+National+Park",
+      "category": "Mountains",
+      "rating": 4.5,
+      "location": "USA"
+    },
+    {
+      "name": "Angkor Wat",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a1/Angkor_Wat_wat.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Angkor+Wat",
+      "category": "Attraction Places",
+      "rating": 4.6,
+      "location": "Cambodia"
+    },
+    {
+      "name": "Big Ben",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/Houses_of_Parliament%2C_London_-_Feb_2007.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Big+Ben",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "London, UK"
+    },
+    {
+      "name": "Great Barrier Reef",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6f/Great_Barrier_Reef.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Great+Barrier+Reef",
+      "category": "Beach",
+      "rating": 4.8,
+      "location": "Australia"
+    },
+    {
+      "name": "Mount Fuji",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/11/Mount_Fuji_from_Hakone.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Mount+Fuji",
+      "category": "Mountains",
+      "rating": 4.9,
+      "location": "Japan"
+    },
+    {
+      "name": "Mount Everest",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Mount+Everest",
+      "category": "Mountains",
+      "rating": 4.5,
+      "location": "Nepal/Tibet"
+    },
+    {
+      "name": "Statue of Liberty",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Statue_of_Liberty%2C_NY.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Statue+of+Liberty",
+      "category": "Attraction Places",
+      "rating": 4.6,
+      "location": "New York, USA"
+    },
+    {
+      "name": "Petra",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Petra_Jordan_BW_21.JPG"
+      ],
+      "location_image": "https://www.google.com/maps/place/Petra",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "Jordan"
+    },
+    {
+      "name": "Christ the Redeemer",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/16/Christ_the_Redeemer_-_Cristo_Redentor.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Christ+the+Redeemer",
+      "category": "Attraction Places",
+      "rating": 4.8,
+      "location": "Rio de Janeiro, Brazil"
+    },
+    {
+      "name": "Blue Lagoon",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7e/Blue_Lagoon%2C_Iceland_%282697097877%29.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Blue+Lagoon",
+      "category": "Lake",
+      "rating": 4.9,
+      "location": "Iceland"
+    },
+    {
+      "name": "Yellowstone National Park",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/Morning_Glory_Pool.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Yellowstone+National+Park",
+      "category": "Mountains",
+      "rating": 4.5,
+      "location": "USA"
+    },
+    {
+      "name": "Angkor Wat",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a1/Angkor_Wat_wat.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Angkor+Wat",
+      "category": "Attraction Places",
+      "rating": 4.6,
+      "location": "Cambodia"
+    },
+    {
+      "name": "Big Ben",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/Houses_of_Parliament%2C_London_-_Feb_2007.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Big+Ben",
+      "category": "Attraction Places",
+      "rating": 4.7,
+      "location": "London, UK"
+    },
+    {
+      "name": "Great Barrier Reef",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6f/Great_Barrier_Reef.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Great+Barrier+Reef",
+      "category": "Beach",
+      "rating": 4.8,
+      "location": "Australia"
+    },
+    {
+      "name": "Mount Fuji",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/11/Mount_Fuji_from_Hakone.jpg"
+      ],
+      "location_image": "https://www.google.com/maps/place/Mount+Fuji",
+      "category": "Mountains",
+      "rating": 4.9,
+      "location": "Japan"
+    }
+  ]
+}
