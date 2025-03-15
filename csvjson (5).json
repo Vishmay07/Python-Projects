@@ -1,0 +1,611 @@
+[
+  {
+    "Name": "Taj Mahal",
+    "Image Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKbzW8WTbu3YdVttHekEJGa1QvBuYvZLTaShOd9FfmGtGu7Ig4Xh7NH0Qn9wViIh5SxMk&usqp=CAU",
+    "Rating": 4.8,
+    "Location": "Agra, Uttar Pradesh",
+    "Category": "Monument"
+  },
+  {
+    "Name": "Golden Temple",
+    "Image Link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Golden_Temple_of_Amrithsar_7.jpg/1200px-The_Golden_Temple_of_Amrithsar_7.jpg",
+    "Rating": 4.9,
+    "Location": "Amritsar, Punjab",
+    "Category": "Temple"
+  },
+  {
+    "Name": "Gateway of India",
+    "Image Link": "https://upload.wikimedia.org/wikipedia/commons/5/57/Gateway_of_India_-_HDR.jpg",
+    "Rating": 4.7,
+    "Location": "Mumbai, Maharashtra",
+    "Category": "Monument"
+  },
+  {
+    "Name": "Dal Lake",
+    "Image Link": "https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/2023/08/pexels-photo-12750077-1024x683.webp",
+    "Rating": 4.6,
+    "Location": "Srinagar, Jammu & Kashmir",
+    "Category": "Lake"
+  },
+  {
+    "Name": "Mysore Palace",
+    "Image Link": "https://dwq3yv87q1b43.cloudfront.net/public/blogs/fit-in/1200x675/Blog_20241130-237756404-1732944745.jpg",
+    "Rating": 4.7,
+    "Location": "Mysore, Karnataka",
+    "Category": "Palace"
+  },
+  {
+    "Name": "Hawa Mahal",
+    "Image Link": "https://cdn.britannica.com/25/242225-050-72142DF7/Front-facade-of-Palace-of-the-Winds-Hawa-Mahal-Jaipur-Rajasthan-India.jpg",
+    "Rating": 4.6,
+    "Location": "Jaipur, Rajasthan",
+    "Category": "Monument"
+  },
+  {
+    "Name": "Marine Drive",
+    "Image Link": "https://i.pinimg.com/736x/9b/4a/40/9b4a40906dcab5edcb1025518b1f6f7b.jpg",
+    "Rating": 4.5,
+    "Location": "Mumbai, Maharashtra",
+    "Category": "Sea"
+  },
+  {
+    "Name": "Kodaikanal Lake",
+    "Image Link": "https://static.toiimg.com/thumb/58640316/Kodai-Lake.jpg?width=1200&height=900",
+    "Rating": 4.6,
+    "Location": "Kodaikanal, Tamil Nadu",
+    "Category": "Lake"
+  },
+  {
+    "Name": "Jim Corbett National Park",
+    "Image Link": "https://www.justahotels.com/wp-content/uploads/2023/10/Things-To-Do-In-Jim-Corbett-National-Park.jpg",
+    "Rating": 4.4,
+    "Location": "Uttarakhand",
+    "Category": "Wildlife"
+  },
+  {
+    "Name": "Meenakshi Temple",
+    "Image Link": "https://live.staticflickr.com/8853/28813535172_a92cf1e504_z.jpg",
+    "Rating": 4.8,
+    "Location": "Madurai, Tamil Nadu",
+    "Category": "Temple"
+  },
+  {
+    "Name": "Manali",
+    "Image Link": "https://www.clubmahindra.com/blog/media/section_images/blog-topic-6530ecb63a76c89.jpg",
+    "Rating": 4.7,
+    "Location": "Himachal Pradesh",
+    "Category": "Mountain"
+  },
+  {
+    "Name": "Ladakh",
+    "Image Link": "https://www.captureatrip.com/_next/image?url=https%3A%2F%2Fcaptureatrip-cms-storage.s3.ap-south-1.amazonaws.com%2FThings_To_Do_In_Ladakh_03126bc347.webp&w=3840&q=50",
+    "Rating": 4.8,
+    "Location": "Ladakh",
+    "Category": "Mountain"
+  },
+  {
+    "Name": "Rann of Kutch",
+    "Image Link": "https://www.rannutsav.net/wp-content/uploads/2024/12/White-rann-camel-ride.webp",
+    "Rating": 4.7,
+    "Location": "Gujarat",
+    "Category": "Desert"
+  },
+  {
+    "Name": "Goa Beaches",
+    "Image Link": "https://media.timeout.com/images/105984009/750/562/image.jpg",
+    "Rating": 4.7,
+    "Location": "Goa",
+    "Category": "Sea"
+  },
+  {
+    "Name": "Athirappilly Falls",
+    "Image Link": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/4b/a2/1c/athirapally-falls-in.jpg?w=1200&h=-1&s=1",
+    "Rating": 4.7,
+    "Location": "Kerala",
+    "Category": "Waterfall"
+  },
+  {
+    "Name": "Lalbagh Botanical Garden",
+    "Image Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStT3Nlcfl5cptyR7tWxT-ddggvGFzYspUFQQ&s",
+    "Rating": 4.5,
+    "Location": "Bangalore, Karnataka",
+    "Category": "Garden"
+  },
+  {
+    "Name": "Amber Palace",
+    "Image Link": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d3/a8/57/images-30-largejpg.jpg?w=1200&h=1200&s=1",
+    "Rating": 4.8,
+    "Location": "Jaipur, Rajasthan",
+    "Category": "Palace"
+  },
+  {
+    "Name": "Ranthambore National Park",
+    "Image Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIjj82c72CXWUkGw_5lq9sTNlJz6U4N-4D5w&s",
+    "Rating": 4.6,
+    "Location": "Rajasthan",
+    "Category": "Wildlife"
+  },
+  {
+    "Name": "Hotel Taj Mumbai",
+    "Image Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPqHkWL2yy7QW4M-0rNQvPtWy_wMQjj1Vc2g&s",
+    "Rating": 4.9,
+    "Location": "Mumbai, Maharashtra",
+    "Category": "Hotel"
+  },
+  {
+    "Name": "Bukhara Restaurant",
+    "Image Link": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/92/e6/0e/bukhara.jpg?w=900&h=-1&s=1",
+    "Rating": 4.7,
+    "Location": "Delhi",
+    "Category": "Restaurant"
+  },
+  {
+    "Name": "Statue of Unity",
+    "Image Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBFYHCi0a_bK4qe73hh8yNbuarY332utxUvg&s",
+    "Rating": 4.9,
+    "Location": "Kevadia, Gujarat",
+    "Category": "Monument"
+  },
+  {
+    "Name": "Somnath Temple",
+    "Image Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRbrLJNlqlMzruuSGeMhOnlkXVppua-OV6YQ&s",
+    "Rating": 4.8,
+    "Location": "Prabhas Patan, Gujarat",
+    "Category": "Temple"
+  },
+  {
+    "Name": "Gir National Park",
+    "Image Link": "https://www.studyiq.com/articles/wp-content/uploads/2023/03/24143612/Gir-national-park.jpg",
+    "Rating": 4.7,
+    "Location": "Junagadh, Gujarat",
+    "Category": "Wildlife Sanctuary"
+  },
+  {
+    "Name": "Dwarkadhish Temple",
+    "Image Link": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/4004/Imposing%20architecture%20of%20Somnath%20Temple.jpg",
+    "Rating": 4.8,
+    "Location": "Dwarka, Gujarat",
+    "Category": "Temple"
+  },
+  {
+    "Name": "Saputara Hill Station",
+    "Image Link": "https://static.toiimg.com/photo/59350928.cms",
+    "Rating": 4.6,
+    "Location": "Dang, Gujarat",
+    "Category": "Mountain"
+  },
+  {
+    "Name": "Champaner-Pavagadh Archaeological Park",
+    "Image Link": "https://www.gujarattourism.com/content/dam/gujrattourism/images/july/Champaner-&-Pavagadh-banner.jpg",
+    "Rating": 4.7,
+    "Location": "Pavagadh, Gujarat",
+    "Category": "Historical Site"
+  },
+  {
+    "Name": "Sabarmati Ashram",
+    "Image Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLoEDKqfZska1Eqlv3edmn4M6f21aXkwNRvQ&s",
+    "Rating": 4.7,
+    "Location": "Ahmedabad, Gujarat",
+    "Category": "Historical Site"
+  },
+  {
+    "Name": "Sidi Saiyyed Mosque",
+    "Image Link": "https://www.gujarattourism.com/content/dam/gujrattourism/images/heritage-sites/siddi-sayed-mosque/Siddi-Sayed-Mosque-Thumbnail1.jpg",
+    "Rating": 4.6,
+    "Location": "Ahmedabad, Gujarat",
+    "Category": "Mosque"
+  },
+  {
+    "Name": "Sun Temple, Modhera",
+    "Image Link": "https://www.gujarattourism.com/content/dam/gujrattourism/images/heritage-sites/sun-temple/gallery/Sun%20Temple19.jpg",
+    "Rating": 4.7,
+    "Location": "Mehsana, Gujarat",
+    "Category": "Historical Site"
+  },
+  {
+    "Name": "Surat Castle",
+    "Image Link": "https://www.suratmunicipal.gov.in/Images/Services/SuratFort/Slider/HomePage/Slider0-2.jpg",
+    "Rating": 4.5,
+    "Location": "Surat, Gujarat",
+    "Category": "Fort"
+  },
+  {
+    "Name": "Laxmi Vilas Palace",
+    "Image Link": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/52/24/3b/lukshmi-vilas-palace.jpg?w=1200&h=1200&s=1",
+    "Rating": 4.8,
+    "Location": "Vadodara, Gujarat",
+    "Category": "Palace"
+  },
+  {
+    "Name": "Dholavira",
+    "Image Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmr8m8cW2hOOfHZ3LVFViiNJmHv_kNf-1kgw&s",
+    "Rating": 4.7,
+    "Location": "Dholavira, Gujarat",
+    "Category": "Historical Site"
+  },
+  {
+    "Name": "White Desert",
+    "Image Link": "https://www.rannutsav.net/wp-content/uploads/2023/03/place-to-visit-near-kutch-white-desert.jpeg",
+    "Rating": 4.7,
+    "Location": "Kutch, Gujarat",
+    "Category": "Desert"
+  },
+  {
+    "Name": "Nageshwar Jyotirlinga",
+    "Image Link": "https://www.gujarattourism.com/content/dam/gujrattourism/images/religious-sites/nageshwar-jyotirlinga/Nageshwar-Jyotirlinga-Thumbnail.jpg",
+    "Rating": 4.6,
+    "Location": "Dwarka, Gujarat",
+    "Category": "Temple"
+  },
+  {
+    "Name": "Bhujia Fort",
+    "Image Link": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/5a/3d/ac/fort-wall.jpg?w=900&h=500&s=1",
+    "Rating": 4.5,
+    "Location": "Bhuj, Gujarat",
+    "Category": "Fort"
+  },
+  {
+    "Name": "Kankaria Lake",
+    "Image Link": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Kankaria_Lake_Ahmedabad.jpg",
+    "Rating": 4.7,
+    "Location": "Ahmedabad, Gujarat",
+    "Category": "Lake"
+  },
+  {
+    "Name": "Hathisingh Jain Temple",
+    "Image Link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sheth_Hutheesinh_Temple.jpg/1200px-Sheth_Hutheesinh_Temple.jpg",
+    "Rating": 4.6,
+    "Location": "Ahmedabad, Gujarat",
+    "Category": "Temple"
+  },
+  {
+    "Name": "Khambhalida Caves",
+    "Image Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38XiyHg8pYXEpg-6-DV0PPMxB9aTD7ougNg&s",
+    "Rating": 4.4,
+    "Location": "Rajkot, Gujarat",
+    "Category": "Cave"
+  },
+  {
+    "Name": "Gopnath Beach",
+    "Image Link": "https://img.traveltriangle.com/blog/wp-content/uploads/2024/09/Gopnath-Beach.jpg",
+    "Rating": 4.6,
+    "Location": "Bhavnagar, Gujarat",
+    "Category": "Beach"
+  },
+  {
+    "Name": "Velavadar Blackbuck National Park",
+    "Image Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpVaNWy9u-VS3XiMf45J3PipdQlcmMPhg5lA&s",
+    "Rating": 4.7,
+    "Location": "Bhavnagar, Gujarat",
+    "Category": "Wildlife Sanctuary"
+  },
+  {
+    "Name": "Mangrol Beach",
+    "Image Link": "https://www.mappls.com/place/YVI1JR_1662467330557_1.png",
+    "Rating": 4.5,
+    "Location": "Porbandar, Gujarat",
+    "Category": "Beach"
+  },
+  {
+    "Name": "Zanzari Waterfall",
+    "Image Link": "https://tripmora.com/wp-content/uploads/2024/03/images-32.jpeg",
+    "Rating": 4.6,
+    "Location": "Gandhinagar, Gujarat",
+    "Category": "Waterfall"
+  },
+  {
+    "Name": "Hingolgadh Sanctuary",
+    "Image Link": "https://www.gujarattourism.com/content/dam/gujrattourism/images/flora--fauna/hingolgadh-nature-education-sanctuary/Hingolgadh-Nature-Education-Sanctuary-Banner.jpg",
+    "Rating": 4.5,
+    "Location": "Rajkot, Gujarat",
+    "Category": "Wildlife Sanctuary"
+  },
+  {
+    "Name": "BAPS Akshardham Temple",
+    "Image Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeT9f8tdtBu1m0ePA6fJXWsVz4-TiTEx_YTg&s",
+    "Rating": 4.7,
+    "Location": "Gandhinagar, Gujarat",
+    "Category": "Temple"
+  },
+  {
+    "Name": "Uparkot Fort",
+    "Image Link": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/f7/f2/98/uperkot-fort.jpg?w=800&h=500&s=1",
+    "Rating": 4.6,
+    "Location": "Junagadh, Gujarat",
+    "Category": "Fort"
+  },
+  {
+    "Name": "Taranga Hill",
+    "Image Link": "https://www.gujarattourism.com/content/dam/gujrattourism/images/heritage-sites/taranga-hill/Taranga-hill-Banner.jpg",
+    "Rating": 4.5,
+    "Location": "Mehsana, Gujarat",
+    "Category": "Temple"
+  },
+  {
+    "Name": "Sakar Kund Waterfall",
+    "Image Link": "https://www.mischieftreks.com/system/images/000/752/241/f5ec2811839466250d7bcca6b6df6443/original/Heaven-Kund-Waterfall-Trek-and-Cliff-from-mumbai-Jumping-Shivsagar-Waterfall-banner.jpg?1730292770",
+    "Rating": 4.4,
+    "Location": "Dahod, Gujarat",
+    "Category": "Waterfall"
+  },
+  {
+    "Name": "Balasinor Dinosaur Park",
+    "Image Link": "https://www.gujarattourism.com/content/dam/gujrattourism/images/museums/balasinor-dinosaur-museum/gallery/Dinosaur-Museum-Raiyoli-(10).jpg",
+    "Rating": 4.5,
+    "Location": "Balasinor, Gujarat",
+    "Category": "Historical Site"
+  },
+  {
+    "Name": "Marine National Park, Gulf of Kutch",
+    "Image Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvhnKD8L2KarNWs41ytF4hS51ILIpEam4jw&s",
+    "Rating": 4.6,
+    "Location": "Jamnagar, Gujarat",
+    "Category": "Marine Park"
+  },
+  {
+    "Name": "Amber Fort",
+    "Image Link": "https://s7ap1.scene7.com/is/image/incredibleindia/amber-fort-jaipur-rajasthan-1-attr-hero?qlt=82&ts=1726660248715",
+    "Rating": 4.8,
+    "Location": "Jaipur, Rajasthan",
+    "Category": "Fort"
+  },
+  {
+    "Name": "Jaisalmer Fort",
+    "Image Link": "https://wmf.imgix.net/images/15_IND_20Jaisalmer_JPEG_Hero_IND_20Jaisalmer.jpg?auto=format,compress&fit=max&w=4040",
+    "Rating": 4.7,
+    "Location": "Jaisalmer, Rajasthan",
+    "Category": "Fort"
+  },
+  {
+    "Name": "City Palace, Udaipur",
+    "Image Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHlYLimYYnneaVRB36HpWPm-uM7PdcgEJ2rg&s",
+    "Rating": 4.8,
+    "Location": "Udaipur, Rajasthan",
+    "Category": "Palace"
+  },
+  {
+    "Name": "Ranthambore Fort",
+    "Image Link": "https://www.ranthamborenationalpark.in/blog/wp-content/uploads/2024/01/forts.jpg",
+    "Rating": 4.7,
+    "Location": "Sawai Madhopur, Rajasthan",
+    "Category": "Fort"
+  },
+  {
+    "Name": "Mehrangarh Fort",
+    "Image Link": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/99/ae/7f/images-14-largejpg.jpg?w=1200&h=1200&s=1",
+    "Rating": 4.8,
+    "Location": "Jodhpur, Rajasthan",
+    "Category": "Fort"
+  },
+  {
+    "Name": "Jal Mahal",
+    "Image Link": "https://s7ap1.scene7.com/is/image/incredibleindia/jal-mahal-jaipur-rajasthan-1-attr-hero?qlt=82&ts=1726660280488",
+    "Rating": 4.6,
+    "Location": "Jaipur, Rajasthan",
+    "Category": "Lake"
+  },
+  {
+    "Name": "Pushkar Lake",
+    "Image Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk-QopukBdAEgL8xVG8tC20Tk3dDKcSh4zig&s",
+    "Rating": 4.7,
+    "Location": "Pushkar, Rajasthan",
+    "Category": "Lake"
+  },
+  {
+    "Name": "Mount Abu",
+    "Image Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKGrQkhD_zE1QfAaCfOrZ9wNIR6PCsLCzk5w&s",
+    "Rating": 4.7,
+    "Location": "Mount Abu, Rajasthan",
+    "Category": "Hill Station"
+  },
+  {
+    "Name": "Chittorgarh Fort",
+    "Image Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBFEsr4xuJEyZwQRHR9I4h_7_qV0K0wOV8Zw&s",
+    "Rating": 4.7,
+    "Location": "Chittorgarh, Rajasthan",
+    "Category": "Fort"
+  },
+  {
+    "Name": "Umaid Bhawan Palace",
+    "Image Link": "https://upload.wikimedia.org/wikipedia/commons/9/9a/1996_-218-20A_Jodhpur_Hotel_Umaid_Bhawan_Palace_%282233393509%29.jpg",
+    "Rating": 4.8,
+    "Location": "Jodhpur, Rajasthan",
+    "Category": "Palace"
+  },
+  {
+    "Name": "Keoladeo National Park",
+    "Image Link": "https://housing.com/news/wp-content/uploads/2024/01/Keoladeo-National-Park-f-compressed.jpg",
+    "Rating": 4.5,
+    "Location": "Bharatpur, Rajasthan",
+    "Category": "Wildlife Sanctuary"
+  },
+  {
+    "Name": "Nakki Lake",
+    "Image Link": "https://i0.wp.com/www.rajasthandirect.com/wp-content/uploads/2013/04/Nakki-Lake-Mount-Abu.jpg?fit=800%2C600&ssl=1",
+    "Rating": 4.6,
+    "Location": "Mount Abu, Rajasthan",
+    "Category": "Lake"
+  },
+  {
+    "Name": "Bundi Palace",
+    "Image Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY1Nj9shju296gfbIDtGMzYlWhNagmpnimwA&s",
+    "Rating": 4.7,
+    "Location": "Bundi, Rajasthan",
+    "Category": "Palace"
+  },
+  {
+    "Name": "Sariska National Park",
+    "Image Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjCMSC39Nz-umUM51qDU6SBxYveZZTL3pDQ&s",
+    "Rating": 4.6,
+    "Location": "Alwar, Rajasthan",
+    "Category": "Wildlife Sanctuary"
+  },
+  {
+    "Name": "Galta Ji Temple",
+    "Image Link": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Zanana_Kund_Aur_Galta_Ji_Ka_Mandir_-_edited.jpg",
+    "Rating": 4.5,
+    "Location": "Jaipur, Rajasthan",
+    "Category": "Temple"
+  },
+  {
+    "Name": "Albert Hall Museum",
+    "Image Link": "https://content-tourist.rajasthan.gov.in/uploads/albert_hall_museum_jaipur_entry_fee_timings_holidays_reviews_header_219f4b832f.jpg",
+    "Rating": 4.6,
+    "Location": "Jaipur, Rajasthan",
+    "Category": "Museum"
+  },
+  {
+    "Name": "Patwon Ki Haveli",
+    "Image Link": "https://media1.thrillophilia.com/filestore/da6xpudxifsdhxkkwlww91flch2z_pixelcut-export%20(25).jpeg",
+    "Rating": 4.7,
+    "Location": "Jaisalmer, Rajasthan",
+    "Category": "Heritage Site"
+  },
+  {
+    "Name": "Kumbhalgarh Fort",
+    "Image Link": "https://gtcholidays.com/wp-content/uploads/2019/09/z-kumbhalgarh-fort.jpg?w=887",
+    "Rating": 4.7,
+    "Location": "Rajsamand, Rajasthan",
+    "Category": "Fort"
+  },
+  {
+    "Name": "Fateh Sagar Lake",
+    "Image Link": "https://www.flamingotravels.co.in/_next/image?url=https%3A%2F%2Fimgcdn.flamingotravels.co.in%2FImages%2FPlacesOfInterest%2Ffateh-sagar.jpg&w=1080&q=90",
+    "Rating": 4.6,
+    "Location": "Udaipur, Rajasthan",
+    "Category": "Lake"
+  },
+  {
+    "Name": "Bhangarh Fort",
+    "Image Link": "https://www.sotc.in/blog/wp-content/uploads/2022/09/Bhangarh-Fort.jpg",
+    "Rating": 4.5,
+    "Location": "Alwar, Rajasthan",
+    "Category": "Fort"
+  },
+  {
+    "Name": "Shekhawati Havelis",
+    "Image Link": "https://thrillingtravel.in/wp-content/uploads/2024/03/Dundlod-goenka-haveli-museum.jpg",
+    "Rating": 4.6,
+    "Location": "Shekhawati, Rajasthan",
+    "Category": "Heritage Site"
+  },
+  {
+    "Name": "Sam Sand Dunes",
+    "Image Link": "https://chokhidhani.com/desert-camp-jaisalmer/wp-content/uploads/2023/04/image11-768x512.jpg",
+    "Rating": 4.7,
+    "Location": "Jaisalmer, Rajasthan",
+    "Category": "Desert"
+  },
+  {
+    "Name": "Lake Pichola",
+    "Image Link": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/77/15/9a/photo0jpg.jpg?w=1200&h=-1&s=1",
+    "Rating": 4.8,
+    "Location": "Udaipur, Rajasthan",
+    "Category": "Lake"
+  },
+  {
+    "Name": "Junagarh Fort",
+    "Image Link": "https://www.trawell.in/admin/images/upload/723119563Bikaner_Junagarh_Fort_Main.jpg",
+    "Rating": 4.7,
+    "Location": "Bikaner, Rajasthan",
+    "Category": "Fort"
+  },
+  {
+    "Name": "Gadsisar Lake",
+    "Image Link": "https://chetramvoyages.in/wp-content/uploads/2018/09/Gadsisar-Lake-Jaisalmer.jpg",
+    "Rating": 4.6,
+    "Location": "Jaisalmer, Rajasthan",
+    "Category": "Lake"
+  },
+  {
+    "Name": "Jaigarh Fort",
+    "Image Link": "https://upload.wikimedia.org/wikipedia/commons/3/34/Rajasthan-Jaipur-Jaigarh-Fort-compound-Apr-2004-00.JPG",
+    "Rating": 4.7,
+    "Location": "Jaipur, Rajasthan",
+    "Category": "Fort"
+  },
+  {
+    "Name": "Ranakpur Jain Temple",
+    "Image Link": "https://img.veenaworld.com/wp-content/uploads/2021/04/Ranakpur-Jain-Temple-Timing-History-and-Information-scaled.jpg",
+    "Rating": 4.8,
+    "Location": "Pali, Rajasthan",
+    "Category": "Temple"
+  },
+  {
+    "Name": "Taragarh Fort",
+    "Image Link": "https://s7ap1.scene7.com/is/image/incredibleindia/2-taragarh-fort-rajasthan-ajmer-attr-hero?qlt=82&ts=1726675399841",
+    "Rating": 4.6,
+    "Location": "Bundi, Rajasthan",
+    "Category": "Fort"
+  },
+  {
+    "Name": "Nahargarh Fort",
+    "Image Link": "https://tripxl.com/blog/wp-content/uploads/2024/09/Sheesh-Mahal-Nahargarh-Fort-OG-Photo.jpg",
+    "Rating": 4.7,
+    "Location": "Jaipur, Rajasthan",
+    "Category": "Fort"
+  },
+  {
+    "Name": "Baga Beach",
+    "Image Link": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/3e/36/95/baga-sea-beach.jpg?w=1200&h=-1&s=1",
+    "Rating": 4.7,
+    "Location": "North Goa",
+    "Category": "Beach"
+  },
+  {
+    "Name": "Calangute Beach",
+    "Image Link": "https://s7ap1.scene7.com/is/image/incredibleindia/calangute-beach-goa-7-musthead-hero?qlt=82&ts=1726735078814",
+    "Rating": 4.6,
+    "Location": "North Goa",
+    "Category": "Beach"
+  },
+  {
+    "Name": "Candolim Beach",
+    "Image Link": "https://static.thehosteller.com/blogimage/1-1682321546492.jpg",
+    "Rating": 4.6,
+    "Location": "North Goa",
+    "Category": "Beach"
+  },
+  {
+    "Name": "Vagator Beach",
+    "Image Link": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/e5/03/bd/img-20181104-094252-largejpg.jpg?w=1200&h=-1&s=1",
+    "Rating": 4.7,
+    "Location": "North Goa",
+    "Category": "Beach"
+  },
+  {
+    "Name": "Anjuna Beach",
+    "Image Link": "https://content.r9cdn.net/rimg/dimg/e1/42/f5e37e20-city-61738-168bf6bab68.jpg?width=1366&height=768&xhint=1042&yhint=1172&crop=true",
+    "Rating": 4.6,
+    "Location": "North Goa",
+    "Category": "Beach"
+  },
+  {
+    "Name": "Colva Beach",
+    "Image Link": "https://content.r9cdn.net/rimg/dimg/e1/42/f5e37e20-city-61738-168bf6bab68.jpg?width=1366&height=768&xhint=1042&yhint=1172&crop=true",
+    "Rating": 4.7,
+    "Location": "South Goa",
+    "Category": "Beach"
+  },
+  {
+    "Name": "Palolem Beach",
+    "Image Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoG5jM1giBs2GXheN4s7zSyR0LdQvbonLz5g&s",
+    "Rating": 4.8,
+    "Location": "South Goa",
+    "Category": "Beach"
+  },
+  {
+    "Name": "Aguada Fort",
+    "Image Link": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/79/ce/e7/fort-aguada-candolim.jpg?w=800&h=500&s=1",
+    "Rating": 4.7,
+    "Location": "North Goa",
+    "Category": "Fort"
+  },
+  {
+    "Name": "Dudhsagar Waterfalls",
+    "Image Link": "https://blog.moustachescapes.com/wp-content/uploads/2024/01/60a37be06c767_1621326816.jpg",
+    "Rating": 4.9,
+    "Location": "South Goa",
+    "Category": "Waterfall"
+  }
+]
