@@ -1,0 +1,1757 @@
+[
+  {
+    "from": "Kevadia NE",
+    "to": "Somnath SE",
+    "distance_km": 412
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Dwarka NW",
+    "distance_km": 308
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Sasan Gir NE",
+    "distance_km": 61
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Kutch NW",
+    "distance_km": 270
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Ahmedabad CE",
+    "distance_km": 349
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Vadodara NW",
+    "distance_km": 273
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Saputara NE",
+    "distance_km": 72
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Gandhinagar NE",
+    "distance_km": 78
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Modhera NE",
+    "distance_km": 109
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Patan NE",
+    "distance_km": 116
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Pavagadh NE",
+    "distance_km": 107
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Bhuj NE",
+    "distance_km": 122
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Mandvi NE",
+    "distance_km": 83
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Jamnagar SW",
+    "distance_km": 416
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Palitana NE",
+    "distance_km": 107
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Banaskantha NE",
+    "distance_km": 134
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Bhavnagar SE",
+    "distance_km": 512
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Porbandar NE",
+    "distance_km": 102
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Surat SW",
+    "distance_km": 438
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Narmada NE",
+    "distance_km": 127
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Mehsana NE",
+    "distance_km": 102
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Ambaji NE",
+    "distance_km": 131
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Junagadh SE",
+    "distance_km": 439
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Aravalli NE",
+    "distance_km": 134
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Dholka NE",
+    "distance_km": 145
+  },
+  {
+    "from": "Kevadia NE",
+    "to": "Surat NE",
+    "distance_km": 139
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Dwarka NW",
+    "distance_km": 426
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Sasan Gir NE",
+    "distance_km": 532
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Kutch NW",
+    "distance_km": 439
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Ahmedabad CE",
+    "distance_km": 298
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Vadodara NW",
+    "distance_km": 446
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Saputara NE",
+    "distance_km": 451
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Gandhinagar NE",
+    "distance_km": 486
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Modhera NE",
+    "distance_km": 527
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Patan NE",
+    "distance_km": 439
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Pavagadh NE",
+    "distance_km": 515
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Bhuj NE",
+    "distance_km": 521
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Mandvi NE",
+    "distance_km": 477
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Jamnagar SW",
+    "distance_km": 290
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Palitana NE",
+    "distance_km": 458
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Banaskantha NE",
+    "distance_km": 460
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Bhavnagar SE",
+    "distance_km": 118
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Porbandar NE",
+    "distance_km": 546
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Surat SW",
+    "distance_km": 243
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Narmada NE",
+    "distance_km": 544
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Mehsana NE",
+    "distance_km": 514
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Ambaji NE",
+    "distance_km": 402
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Junagadh SE",
+    "distance_km": 61
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Aravalli NE",
+    "distance_km": 412
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Dholka NE",
+    "distance_km": 545
+  },
+  {
+    "from": "Somnath SE",
+    "to": "Surat NE",
+    "distance_km": 520
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Sasan Gir NE",
+    "distance_km": 216
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Kutch NW",
+    "distance_km": 65
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Ahmedabad CE",
+    "distance_km": 540
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Vadodara NW",
+    "distance_km": 62
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Saputara NE",
+    "distance_km": 314
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Gandhinagar NE",
+    "distance_km": 217
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Modhera NE",
+    "distance_km": 253
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Patan NE",
+    "distance_km": 294
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Pavagadh NE",
+    "distance_km": 237
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Bhuj NE",
+    "distance_km": 214
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Mandvi NE",
+    "distance_km": 210
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Jamnagar SW",
+    "distance_km": 435
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Palitana NE",
+    "distance_km": 281
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Banaskantha NE",
+    "distance_km": 230
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Bhavnagar SE",
+    "distance_km": 406
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Porbandar NE",
+    "distance_km": 276
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Surat SW",
+    "distance_km": 410
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Narmada NE",
+    "distance_km": 328
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Mehsana NE",
+    "distance_km": 267
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Ambaji NE",
+    "distance_km": 269
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Junagadh SE",
+    "distance_km": 438
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Aravalli NE",
+    "distance_km": 297
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Dholka NE",
+    "distance_km": 223
+  },
+  {
+    "from": "Dwarka NW",
+    "to": "Surat NE",
+    "distance_km": 262
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Kutch NW",
+    "distance_km": 262
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Ahmedabad CE",
+    "distance_km": 236
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Vadodara NW",
+    "distance_km": 220
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Saputara NE",
+    "distance_km": 120
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Gandhinagar NE",
+    "distance_km": 120
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Modhera NE",
+    "distance_km": 85
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Patan NE",
+    "distance_km": 138
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Pavagadh NE",
+    "distance_km": 98
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Bhuj NE",
+    "distance_km": 112
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Mandvi NE",
+    "distance_km": 112
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Jamnagar SW",
+    "distance_km": 494
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Palitana NE",
+    "distance_km": 65
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Banaskantha NE",
+    "distance_km": 106
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Bhavnagar SE",
+    "distance_km": 530
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Porbandar NE",
+    "distance_km": 91
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Surat SW",
+    "distance_km": 475
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Narmada NE",
+    "distance_km": 112
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Mehsana NE",
+    "distance_km": 116
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Ambaji NE",
+    "distance_km": 75
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Junagadh SE",
+    "distance_km": 407
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Aravalli NE",
+    "distance_km": 121
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Dholka NE",
+    "distance_km": 104
+  },
+  {
+    "from": "Sasan Gir NE",
+    "to": "Surat NE",
+    "distance_km": 145
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Ahmedabad CE",
+    "distance_km": 536
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Vadodara NW",
+    "distance_km": 129
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Saputara NE",
+    "distance_km": 238
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Gandhinagar NE",
+    "distance_km": 261
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Modhera NE",
+    "distance_km": 231
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Patan NE",
+    "distance_km": 208
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Pavagadh NE",
+    "distance_km": 269
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Bhuj NE",
+    "distance_km": 280
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Mandvi NE",
+    "distance_km": 254
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Jamnagar SW",
+    "distance_km": 418
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Palitana NE",
+    "distance_km": 220
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Banaskantha NE",
+    "distance_km": 245
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Bhavnagar SE",
+    "distance_km": 510
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Porbandar NE",
+    "distance_km": 267
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Surat SW",
+    "distance_km": 470
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Narmada NE",
+    "distance_km": 249
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Mehsana NE",
+    "distance_km": 251
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Ambaji NE",
+    "distance_km": 216
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Junagadh SE",
+    "distance_km": 402
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Aravalli NE",
+    "distance_km": 307
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Dholka NE",
+    "distance_km": 255
+  },
+  {
+    "from": "Kutch NW",
+    "to": "Surat NE",
+    "distance_km": 296
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Vadodara NW",
+    "distance_km": 521
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Saputara NE",
+    "distance_km": 337
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Gandhinagar NE",
+    "distance_km": 282
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Modhera NE",
+    "distance_km": 323
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Patan NE",
+    "distance_km": 242
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Pavagadh NE",
+    "distance_km": 203
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Bhuj NE",
+    "distance_km": 316
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Mandvi NE",
+    "distance_km": 265
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Jamnagar SW",
+    "distance_km": 402
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Palitana NE",
+    "distance_km": 303
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Banaskantha NE",
+    "distance_km": 260
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Bhavnagar SE",
+    "distance_km": 312
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Porbandar NE",
+    "distance_km": 301
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Surat SW",
+    "distance_km": 453
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Narmada NE",
+    "distance_km": 229
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Mehsana NE",
+    "distance_km": 306
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Ambaji NE",
+    "distance_km": 296
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Junagadh SE",
+    "distance_km": 251
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Aravalli NE",
+    "distance_km": 205
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Dholka NE",
+    "distance_km": 212
+  },
+  {
+    "from": "Ahmedabad CE",
+    "to": "Surat NE",
+    "distance_km": 264
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Saputara NE",
+    "distance_km": 308
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Gandhinagar NE",
+    "distance_km": 348
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Modhera NE",
+    "distance_km": 347
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Patan NE",
+    "distance_km": 277
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Pavagadh NE",
+    "distance_km": 336
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Bhuj NE",
+    "distance_km": 221
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Mandvi NE",
+    "distance_km": 349
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Jamnagar SW",
+    "distance_km": 538
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Palitana NE",
+    "distance_km": 318
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Banaskantha NE",
+    "distance_km": 272
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Bhavnagar SE",
+    "distance_km": 481
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Porbandar NE",
+    "distance_km": 262
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Surat SW",
+    "distance_km": 473
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Narmada NE",
+    "distance_km": 249
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Mehsana NE",
+    "distance_km": 255
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Ambaji NE",
+    "distance_km": 231
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Junagadh SE",
+    "distance_km": 478
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Aravalli NE",
+    "distance_km": 321
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Dholka NE",
+    "distance_km": 301
+  },
+  {
+    "from": "Vadodara NW",
+    "to": "Surat NE",
+    "distance_km": 282
+  },
+  {
+    "from": "Saputara NE",
+    "to": "Gandhinagar NE",
+    "distance_km": 82
+  },
+  {
+    "from": "Saputara NE",
+    "to": "Modhera NE",
+    "distance_km": 73
+  },
+  {
+    "from": "Saputara NE",
+    "to": "Patan NE",
+    "distance_km": 103
+  },
+  {
+    "from": "Saputara NE",
+    "to": "Pavagadh NE",
+    "distance_km": 126
+  },
+  {
+    "from": "Saputara NE",
+    "to": "Bhuj NE",
+    "distance_km": 132
+  },
+  {
+    "from": "Saputara NE",
+    "to": "Mandvi NE",
+    "distance_km": 121
+  },
+  {
+    "from": "Saputara NE",
+    "to": "Jamnagar SW",
+    "distance_km": 550
+  },
+  {
+    "from": "Saputara NE",
+    "to": "Palitana NE",
+    "distance_km": 78
+  },
+  {
+    "from": "Saputara NE",
+    "to": "Banaskantha NE",
+    "distance_km": 64
+  },
+  {
+    "from": "Saputara NE",
+    "to": "Bhavnagar SE",
+    "distance_km": 549
+  },
+  {
+    "from": "Saputara NE",
+    "to": "Porbandar NE",
+    "distance_km": 72
+  },
+  {
+    "from": "Saputara NE",
+    "to": "Surat SW",
+    "distance_km": 506
+  },
+  {
+    "from": "Saputara NE",
+    "to": "Narmada NE",
+    "distance_km": 77
+  },
+  {
+    "from": "Saputara NE",
+    "to": "Mehsana NE",
+    "distance_km": 70
+  },
+  {
+    "from": "Saputara NE",
+    "to": "Ambaji NE",
+    "distance_km": 105
+  },
+  {
+    "from": "Saputara NE",
+    "to": "Junagadh SE",
+    "distance_km": 403
+  },
+  {
+    "from": "Saputara NE",
+    "to": "Aravalli NE",
+    "distance_km": 126
+  },
+  {
+    "from": "Saputara NE",
+    "to": "Dholka NE",
+    "distance_km": 114
+  },
+  {
+    "from": "Saputara NE",
+    "to": "Surat NE",
+    "distance_km": 146
+  },
+  {
+    "from": "Gandhinagar NE",
+    "to": "Modhera NE",
+    "distance_km": 93
+  },
+  {
+    "from": "Gandhinagar NE",
+    "to": "Patan NE",
+    "distance_km": 64
+  },
+  {
+    "from": "Gandhinagar NE",
+    "to": "Pavagadh NE",
+    "distance_km": 141
+  },
+  {
+    "from": "Gandhinagar NE",
+    "to": "Bhuj NE",
+    "distance_km": 128
+  },
+  {
+    "from": "Gandhinagar NE",
+    "to": "Mandvi NE",
+    "distance_km": 115
+  },
+  {
+    "from": "Gandhinagar NE",
+    "to": "Jamnagar SW",
+    "distance_km": 536
+  },
+  {
+    "from": "Gandhinagar NE",
+    "to": "Palitana NE",
+    "distance_km": 118
+  },
+  {
+    "from": "Gandhinagar NE",
+    "to": "Banaskantha NE",
+    "distance_km": 101
+  },
+  {
+    "from": "Gandhinagar NE",
+    "to": "Bhavnagar SE",
+    "distance_km": 418
+  },
+  {
+    "from": "Gandhinagar NE",
+    "to": "Porbandar NE",
+    "distance_km": 106
+  },
+  {
+    "from": "Gandhinagar NE",
+    "to": "Surat SW",
+    "distance_km": 418
+  },
+  {
+    "from": "Gandhinagar NE",
+    "to": "Narmada NE",
+    "distance_km": 97
+  },
+  {
+    "from": "Gandhinagar NE",
+    "to": "Mehsana NE",
+    "distance_km": 71
+  },
+  {
+    "from": "Gandhinagar NE",
+    "to": "Ambaji NE",
+    "distance_km": 70
+  },
+  {
+    "from": "Gandhinagar NE",
+    "to": "Junagadh SE",
+    "distance_km": 531
+  },
+  {
+    "from": "Gandhinagar NE",
+    "to": "Aravalli NE",
+    "distance_km": 103
+  },
+  {
+    "from": "Gandhinagar NE",
+    "to": "Dholka NE",
+    "distance_km": 122
+  },
+  {
+    "from": "Gandhinagar NE",
+    "to": "Surat NE",
+    "distance_km": 62
+  },
+  {
+    "from": "Modhera NE",
+    "to": "Patan NE",
+    "distance_km": 102
+  },
+  {
+    "from": "Modhera NE",
+    "to": "Pavagadh NE",
+    "distance_km": 107
+  },
+  {
+    "from": "Modhera NE",
+    "to": "Bhuj NE",
+    "distance_km": 107
+  },
+  {
+    "from": "Modhera NE",
+    "to": "Mandvi NE",
+    "distance_km": 94
+  },
+  {
+    "from": "Modhera NE",
+    "to": "Jamnagar SW",
+    "distance_km": 402
+  },
+  {
+    "from": "Modhera NE",
+    "to": "Palitana NE",
+    "distance_km": 102
+  },
+  {
+    "from": "Modhera NE",
+    "to": "Banaskantha NE",
+    "distance_km": 141
+  },
+  {
+    "from": "Modhera NE",
+    "to": "Bhavnagar SE",
+    "distance_km": 455
+  },
+  {
+    "from": "Modhera NE",
+    "to": "Porbandar NE",
+    "distance_km": 129
+  },
+  {
+    "from": "Modhera NE",
+    "to": "Surat SW",
+    "distance_km": 474
+  },
+  {
+    "from": "Modhera NE",
+    "to": "Narmada NE",
+    "distance_km": 65
+  },
+  {
+    "from": "Modhera NE",
+    "to": "Mehsana NE",
+    "distance_km": 70
+  },
+  {
+    "from": "Modhera NE",
+    "to": "Ambaji NE",
+    "distance_km": 138
+  },
+  {
+    "from": "Modhera NE",
+    "to": "Junagadh SE",
+    "distance_km": 466
+  },
+  {
+    "from": "Modhera NE",
+    "to": "Aravalli NE",
+    "distance_km": 122
+  },
+  {
+    "from": "Modhera NE",
+    "to": "Dholka NE",
+    "distance_km": 140
+  },
+  {
+    "from": "Modhera NE",
+    "to": "Surat NE",
+    "distance_km": 132
+  },
+  {
+    "from": "Patan NE",
+    "to": "Pavagadh NE",
+    "distance_km": 116
+  },
+  {
+    "from": "Patan NE",
+    "to": "Bhuj NE",
+    "distance_km": 72
+  },
+  {
+    "from": "Patan NE",
+    "to": "Mandvi NE",
+    "distance_km": 95
+  },
+  {
+    "from": "Patan NE",
+    "to": "Jamnagar SW",
+    "distance_km": 541
+  },
+  {
+    "from": "Patan NE",
+    "to": "Palitana NE",
+    "distance_km": 70
+  },
+  {
+    "from": "Patan NE",
+    "to": "Banaskantha NE",
+    "distance_km": 125
+  },
+  {
+    "from": "Patan NE",
+    "to": "Bhavnagar SE",
+    "distance_km": 477
+  },
+  {
+    "from": "Patan NE",
+    "to": "Porbandar NE",
+    "distance_km": 116
+  },
+  {
+    "from": "Patan NE",
+    "to": "Surat SW",
+    "distance_km": 478
+  },
+  {
+    "from": "Patan NE",
+    "to": "Narmada NE",
+    "distance_km": 145
+  },
+  {
+    "from": "Patan NE",
+    "to": "Mehsana NE",
+    "distance_km": 88
+  },
+  {
+    "from": "Patan NE",
+    "to": "Ambaji NE",
+    "distance_km": 101
+  },
+  {
+    "from": "Patan NE",
+    "to": "Junagadh SE",
+    "distance_km": 415
+  },
+  {
+    "from": "Patan NE",
+    "to": "Aravalli NE",
+    "distance_km": 68
+  },
+  {
+    "from": "Patan NE",
+    "to": "Dholka NE",
+    "distance_km": 109
+  },
+  {
+    "from": "Patan NE",
+    "to": "Surat NE",
+    "distance_km": 147
+  },
+  {
+    "from": "Pavagadh NE",
+    "to": "Bhuj NE",
+    "distance_km": 117
+  },
+  {
+    "from": "Pavagadh NE",
+    "to": "Mandvi NE",
+    "distance_km": 77
+  },
+  {
+    "from": "Pavagadh NE",
+    "to": "Jamnagar SW",
+    "distance_km": 480
+  },
+  {
+    "from": "Pavagadh NE",
+    "to": "Palitana NE",
+    "distance_km": 111
+  },
+  {
+    "from": "Pavagadh NE",
+    "to": "Banaskantha NE",
+    "distance_km": 96
+  },
+  {
+    "from": "Pavagadh NE",
+    "to": "Bhavnagar SE",
+    "distance_km": 512
+  },
+  {
+    "from": "Pavagadh NE",
+    "to": "Porbandar NE",
+    "distance_km": 72
+  },
+  {
+    "from": "Pavagadh NE",
+    "to": "Surat SW",
+    "distance_km": 516
+  },
+  {
+    "from": "Pavagadh NE",
+    "to": "Narmada NE",
+    "distance_km": 79
+  },
+  {
+    "from": "Pavagadh NE",
+    "to": "Mehsana NE",
+    "distance_km": 121
+  },
+  {
+    "from": "Pavagadh NE",
+    "to": "Ambaji NE",
+    "distance_km": 103
+  },
+  {
+    "from": "Pavagadh NE",
+    "to": "Junagadh SE",
+    "distance_km": 475
+  },
+  {
+    "from": "Pavagadh NE",
+    "to": "Aravalli NE",
+    "distance_km": 67
+  },
+  {
+    "from": "Pavagadh NE",
+    "to": "Dholka NE",
+    "distance_km": 103
+  },
+  {
+    "from": "Pavagadh NE",
+    "to": "Surat NE",
+    "distance_km": 99
+  },
+  {
+    "from": "Bhuj NE",
+    "to": "Mandvi NE",
+    "distance_km": 88
+  },
+  {
+    "from": "Bhuj NE",
+    "to": "Jamnagar SW",
+    "distance_km": 422
+  },
+  {
+    "from": "Bhuj NE",
+    "to": "Palitana NE",
+    "distance_km": 124
+  },
+  {
+    "from": "Bhuj NE",
+    "to": "Banaskantha NE",
+    "distance_km": 67
+  },
+  {
+    "from": "Bhuj NE",
+    "to": "Bhavnagar SE",
+    "distance_km": 410
+  },
+  {
+    "from": "Bhuj NE",
+    "to": "Porbandar NE",
+    "distance_km": 65
+  },
+  {
+    "from": "Bhuj NE",
+    "to": "Surat SW",
+    "distance_km": 432
+  },
+  {
+    "from": "Bhuj NE",
+    "to": "Narmada NE",
+    "distance_km": 95
+  },
+  {
+    "from": "Bhuj NE",
+    "to": "Mehsana NE",
+    "distance_km": 82
+  },
+  {
+    "from": "Bhuj NE",
+    "to": "Ambaji NE",
+    "distance_km": 117
+  },
+  {
+    "from": "Bhuj NE",
+    "to": "Junagadh SE",
+    "distance_km": 402
+  },
+  {
+    "from": "Bhuj NE",
+    "to": "Aravalli NE",
+    "distance_km": 83
+  },
+  {
+    "from": "Bhuj NE",
+    "to": "Dholka NE",
+    "distance_km": 66
+  },
+  {
+    "from": "Bhuj NE",
+    "to": "Surat NE",
+    "distance_km": 116
+  },
+  {
+    "from": "Mandvi NE",
+    "to": "Jamnagar SW",
+    "distance_km": 499
+  },
+  {
+    "from": "Mandvi NE",
+    "to": "Palitana NE",
+    "distance_km": 69
+  },
+  {
+    "from": "Mandvi NE",
+    "to": "Banaskantha NE",
+    "distance_km": 89
+  },
+  {
+    "from": "Mandvi NE",
+    "to": "Bhavnagar SE",
+    "distance_km": 415
+  },
+  {
+    "from": "Mandvi NE",
+    "to": "Porbandar NE",
+    "distance_km": 84
+  },
+  {
+    "from": "Mandvi NE",
+    "to": "Surat SW",
+    "distance_km": 529
+  },
+  {
+    "from": "Mandvi NE",
+    "to": "Narmada NE",
+    "distance_km": 110
+  },
+  {
+    "from": "Mandvi NE",
+    "to": "Mehsana NE",
+    "distance_km": 130
+  },
+  {
+    "from": "Mandvi NE",
+    "to": "Ambaji NE",
+    "distance_km": 141
+  },
+  {
+    "from": "Mandvi NE",
+    "to": "Junagadh SE",
+    "distance_km": 495
+  },
+  {
+    "from": "Mandvi NE",
+    "to": "Aravalli NE",
+    "distance_km": 116
+  },
+  {
+    "from": "Mandvi NE",
+    "to": "Dholka NE",
+    "distance_km": 116
+  },
+  {
+    "from": "Mandvi NE",
+    "to": "Surat NE",
+    "distance_km": 148
+  },
+  {
+    "from": "Jamnagar SW",
+    "to": "Palitana NE",
+    "distance_km": 538
+  },
+  {
+    "from": "Jamnagar SW",
+    "to": "Banaskantha NE",
+    "distance_km": 457
+  },
+  {
+    "from": "Jamnagar SW",
+    "to": "Bhavnagar SE",
+    "distance_km": 229
+  },
+  {
+    "from": "Jamnagar SW",
+    "to": "Porbandar NE",
+    "distance_km": 444
+  },
+  {
+    "from": "Jamnagar SW",
+    "to": "Surat SW",
+    "distance_km": 71
+  },
+  {
+    "from": "Jamnagar SW",
+    "to": "Narmada NE",
+    "distance_km": 436
+  },
+  {
+    "from": "Jamnagar SW",
+    "to": "Mehsana NE",
+    "distance_km": 481
+  },
+  {
+    "from": "Jamnagar SW",
+    "to": "Ambaji NE",
+    "distance_km": 494
+  },
+  {
+    "from": "Jamnagar SW",
+    "to": "Junagadh SE",
+    "distance_km": 267
+  },
+  {
+    "from": "Jamnagar SW",
+    "to": "Aravalli NE",
+    "distance_km": 479
+  },
+  {
+    "from": "Jamnagar SW",
+    "to": "Dholka NE",
+    "distance_km": 429
+  },
+  {
+    "from": "Jamnagar SW",
+    "to": "Surat NE",
+    "distance_km": 515
+  },
+  {
+    "from": "Palitana NE",
+    "to": "Banaskantha NE",
+    "distance_km": 121
+  },
+  {
+    "from": "Palitana NE",
+    "to": "Bhavnagar SE",
+    "distance_km": 516
+  },
+  {
+    "from": "Palitana NE",
+    "to": "Porbandar NE",
+    "distance_km": 88
+  },
+  {
+    "from": "Palitana NE",
+    "to": "Surat SW",
+    "distance_km": 452
+  },
+  {
+    "from": "Palitana NE",
+    "to": "Narmada NE",
+    "distance_km": 81
+  },
+  {
+    "from": "Palitana NE",
+    "to": "Mehsana NE",
+    "distance_km": 99
+  },
+  {
+    "from": "Palitana NE",
+    "to": "Ambaji NE",
+    "distance_km": 115
+  },
+  {
+    "from": "Palitana NE",
+    "to": "Junagadh SE",
+    "distance_km": 493
+  },
+  {
+    "from": "Palitana NE",
+    "to": "Aravalli NE",
+    "distance_km": 109
+  },
+  {
+    "from": "Palitana NE",
+    "to": "Dholka NE",
+    "distance_km": 114
+  },
+  {
+    "from": "Palitana NE",
+    "to": "Surat NE",
+    "distance_km": 125
+  },
+  {
+    "from": "Banaskantha NE",
+    "to": "Bhavnagar SE",
+    "distance_km": 509
+  },
+  {
+    "from": "Banaskantha NE",
+    "to": "Porbandar NE",
+    "distance_km": 113
+  },
+  {
+    "from": "Banaskantha NE",
+    "to": "Surat SW",
+    "distance_km": 446
+  },
+  {
+    "from": "Banaskantha NE",
+    "to": "Narmada NE",
+    "distance_km": 112
+  },
+  {
+    "from": "Banaskantha NE",
+    "to": "Mehsana NE",
+    "distance_km": 83
+  },
+  {
+    "from": "Banaskantha NE",
+    "to": "Ambaji NE",
+    "distance_km": 144
+  },
+  {
+    "from": "Banaskantha NE",
+    "to": "Junagadh SE",
+    "distance_km": 535
+  },
+  {
+    "from": "Banaskantha NE",
+    "to": "Aravalli NE",
+    "distance_km": 67
+  },
+  {
+    "from": "Banaskantha NE",
+    "to": "Dholka NE",
+    "distance_km": 85
+  },
+  {
+    "from": "Banaskantha NE",
+    "to": "Surat NE",
+    "distance_km": 65
+  },
+  {
+    "from": "Bhavnagar SE",
+    "to": "Porbandar NE",
+    "distance_km": 449
+  },
+  {
+    "from": "Bhavnagar SE",
+    "to": "Surat SW",
+    "distance_km": 304
+  },
+  {
+    "from": "Bhavnagar SE",
+    "to": "Narmada NE",
+    "distance_km": 479
+  },
+  {
+    "from": "Bhavnagar SE",
+    "to": "Mehsana NE",
+    "distance_km": 543
+  },
+  {
+    "from": "Bhavnagar SE",
+    "to": "Ambaji NE",
+    "distance_km": 525
+  },
+  {
+    "from": "Bhavnagar SE",
+    "to": "Junagadh SE",
+    "distance_km": 97
+  },
+  {
+    "from": "Bhavnagar SE",
+    "to": "Aravalli NE",
+    "distance_km": 492
+  },
+  {
+    "from": "Bhavnagar SE",
+    "to": "Dholka NE",
+    "distance_km": 537
+  },
+  {
+    "from": "Bhavnagar SE",
+    "to": "Surat NE",
+    "distance_km": 421
+  },
+  {
+    "from": "Porbandar NE",
+    "to": "Surat SW",
+    "distance_km": 516
+  },
+  {
+    "from": "Porbandar NE",
+    "to": "Narmada NE",
+    "distance_km": 148
+  },
+  {
+    "from": "Porbandar NE",
+    "to": "Mehsana NE",
+    "distance_km": 133
+  },
+  {
+    "from": "Porbandar NE",
+    "to": "Ambaji NE",
+    "distance_km": 131
+  },
+  {
+    "from": "Porbandar NE",
+    "to": "Junagadh SE",
+    "distance_km": 442
+  },
+  {
+    "from": "Porbandar NE",
+    "to": "Aravalli NE",
+    "distance_km": 103
+  },
+  {
+    "from": "Porbandar NE",
+    "to": "Dholka NE",
+    "distance_km": 63
+  },
+  {
+    "from": "Porbandar NE",
+    "to": "Surat NE",
+    "distance_km": 129
+  },
+  {
+    "from": "Surat SW",
+    "to": "Narmada NE",
+    "distance_km": 427
+  },
+  {
+    "from": "Surat SW",
+    "to": "Mehsana NE",
+    "distance_km": 427
+  },
+  {
+    "from": "Surat SW",
+    "to": "Ambaji NE",
+    "distance_km": 533
+  },
+  {
+    "from": "Surat SW",
+    "to": "Junagadh SE",
+    "distance_km": 218
+  },
+  {
+    "from": "Surat SW",
+    "to": "Aravalli NE",
+    "distance_km": 481
+  },
+  {
+    "from": "Surat SW",
+    "to": "Dholka NE",
+    "distance_km": 549
+  },
+  {
+    "from": "Surat SW",
+    "to": "Surat NE",
+    "distance_km": 413
+  },
+  {
+    "from": "Narmada NE",
+    "to": "Mehsana NE",
+    "distance_km": 74
+  },
+  {
+    "from": "Narmada NE",
+    "to": "Ambaji NE",
+    "distance_km": 66
+  },
+  {
+    "from": "Narmada NE",
+    "to": "Junagadh SE",
+    "distance_km": 533
+  },
+  {
+    "from": "Narmada NE",
+    "to": "Aravalli NE",
+    "distance_km": 142
+  },
+  {
+    "from": "Narmada NE",
+    "to": "Dholka NE",
+    "distance_km": 106
+  },
+  {
+    "from": "Narmada NE",
+    "to": "Surat NE",
+    "distance_km": 62
+  },
+  {
+    "from": "Mehsana NE",
+    "to": "Ambaji NE",
+    "distance_km": 139
+  },
+  {
+    "from": "Mehsana NE",
+    "to": "Junagadh SE",
+    "distance_km": 490
+  },
+  {
+    "from": "Mehsana NE",
+    "to": "Aravalli NE",
+    "distance_km": 115
+  },
+  {
+    "from": "Mehsana NE",
+    "to": "Dholka NE",
+    "distance_km": 144
+  },
+  {
+    "from": "Mehsana NE",
+    "to": "Surat NE",
+    "distance_km": 72
+  },
+  {
+    "from": "Ambaji NE",
+    "to": "Junagadh SE",
+    "distance_km": 447
+  },
+  {
+    "from": "Ambaji NE",
+    "to": "Aravalli NE",
+    "distance_km": 85
+  },
+  {
+    "from": "Ambaji NE",
+    "to": "Dholka NE",
+    "distance_km": 141
+  },
+  {
+    "from": "Ambaji NE",
+    "to": "Surat NE",
+    "distance_km": 134
+  },
+  {
+    "from": "Junagadh SE",
+    "to": "Aravalli NE",
+    "distance_km": 512
+  },
+  {
+    "from": "Junagadh SE",
+    "to": "Dholka NE",
+    "distance_km": 502
+  },
+  {
+    "from": "Junagadh SE",
+    "to": "Surat NE",
+    "distance_km": 426
+  },
+  {
+    "from": "Aravalli NE",
+    "to": "Dholka NE",
+    "distance_km": 102
+  },
+  {
+    "from": "Aravalli NE",
+    "to": "Surat NE",
+    "distance_km": 72
+  },
+  {
+    "from": "Dholka NE",
+    "to": "Surat NE",
+    "distance_km": 74
+  }
+]
