@@ -1,0 +1,2546 @@
+[
+    {
+        "id": 1,
+        "car_name": "Camry Sport",
+        "car_brand": "Toyota",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/toyota_camry_1.jpg"
+        ],
+        "colours": [
+            "Green",
+            "White"
+        ],
+        "specifications": {
+            "engine": "1671cc Electric",
+            "performance": "241 HP, 13.3 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Electric",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b91,157,720",
+            "ex_showroom_price": "\u20b9803,664"
+        }
+    },
+    {
+        "id": 2,
+        "car_name": "Corolla Top",
+        "car_brand": "Toyota",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/toyota_corolla_2.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "Blue",
+            "Black",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "1205cc Hybrid",
+            "performance": "367 HP, 11.6 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b9841,735",
+            "ex_showroom_price": "\u20b9898,612"
+        }
+    },
+    {
+        "id": 3,
+        "car_name": "Fortuner Top",
+        "car_brand": "Toyota",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/toyota_fortuner_3.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "Black",
+            "Red",
+            "White",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "1363cc Hybrid",
+            "performance": "223 HP, 18.2 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,021,965",
+            "ex_showroom_price": "\u20b9878,230"
+        }
+    },
+    {
+        "id": 4,
+        "car_name": "Civic Premium",
+        "car_brand": "Honda",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/honda_civic_4.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Green",
+            "Red",
+            "Grey",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "1421cc Hybrid",
+            "performance": "325 HP, 23.3 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b92,343,871",
+            "ex_showroom_price": "\u20b92,754,464"
+        }
+    },
+    {
+        "id": 5,
+        "car_name": "City Sport",
+        "car_brand": "Honda",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/honda_city_5.jpg"
+        ],
+        "colours": [
+            "Red",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "1394cc V6",
+            "performance": "120 HP, 19.5 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "V6",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b91,427,597",
+            "ex_showroom_price": "\u20b91,172,377"
+        }
+    },
+    {
+        "id": 6,
+        "car_name": "CR-V Sport",
+        "car_brand": "Honda",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/honda_cr-v_6.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "Red",
+            "Grey",
+            "Blue",
+            "White"
+        ],
+        "specifications": {
+            "engine": "2997cc Electric",
+            "performance": "199 HP, 23.9 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Electric",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b91,306,916",
+            "ex_showroom_price": "\u20b91,953,888"
+        }
+    },
+    {
+        "id": 7,
+        "car_name": "Creta Sport",
+        "car_brand": "Hyundai",
+        "country_of_origin": "South Korea",
+        "images": [
+            "https://example.com/images/hyundai_creta_7.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Green",
+            "Black",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "2652cc Inline-4",
+            "performance": "159 HP, 13.4 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Inline-4",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b92,945,342",
+            "ex_showroom_price": "\u20b9765,662"
+        }
+    },
+    {
+        "id": 8,
+        "car_name": "i20 Top",
+        "car_brand": "Hyundai",
+        "country_of_origin": "South Korea",
+        "images": [
+            "https://example.com/images/hyundai_i20_8.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "Blue",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "1924cc Inline-4",
+            "performance": "356 HP, 16.7 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Inline-4",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b91,178,283",
+            "ex_showroom_price": "\u20b91,963,085"
+        }
+    },
+    {
+        "id": 9,
+        "car_name": "Verna Sport",
+        "car_brand": "Hyundai",
+        "country_of_origin": "South Korea",
+        "images": [
+            "https://example.com/images/hyundai_verna_9.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "2743cc Hybrid",
+            "performance": "105 HP, 16.6 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Hybrid",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b9953,617",
+            "ex_showroom_price": "\u20b92,458,304"
+        }
+    },
+    {
+        "id": 10,
+        "car_name": "Mustang Base",
+        "car_brand": "Ford",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/ford_mustang_10.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Silver",
+            "Grey",
+            "Black",
+            "White"
+        ],
+        "specifications": {
+            "engine": "1211cc V6",
+            "performance": "129 HP, 21.5 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "V6",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b91,338,668",
+            "ex_showroom_price": "\u20b91,844,533"
+        }
+    },
+    {
+        "id": 11,
+        "car_name": "EcoSport Top",
+        "car_brand": "Ford",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/ford_ecosport_11.jpg"
+        ],
+        "colours": [
+            "White",
+            "Black"
+        ],
+        "specifications": {
+            "engine": "1345cc Hybrid",
+            "performance": "321 HP, 20.0 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Hybrid",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b92,999,904",
+            "ex_showroom_price": "\u20b91,947,342"
+        }
+    },
+    {
+        "id": 12,
+        "car_name": "Endeavour Premium",
+        "car_brand": "Ford",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/ford_endeavour_12.jpg"
+        ],
+        "colours": [
+            "Green",
+            "White",
+            "Black",
+            "Grey"
+        ],
+        "specifications": {
+            "engine": "1655cc Hybrid",
+            "performance": "168 HP, 23.4 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Hybrid",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b92,773,865",
+            "ex_showroom_price": "\u20b91,678,014"
+        }
+    },
+    {
+        "id": 13,
+        "car_name": "3 Series Sport",
+        "car_brand": "BMW",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/bmw_3_series_13.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "Green",
+            "Red",
+            "White"
+        ],
+        "specifications": {
+            "engine": "2326cc V6",
+            "performance": "192 HP, 17.8 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "V6",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b91,592,249",
+            "ex_showroom_price": "\u20b91,212,846"
+        }
+    },
+    {
+        "id": 14,
+        "car_name": "5 Series Top",
+        "car_brand": "BMW",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/bmw_5_series_14.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "2547cc V8",
+            "performance": "385 HP, 24.5 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "V8",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,660,823",
+            "ex_showroom_price": "\u20b92,020,339"
+        }
+    },
+    {
+        "id": 15,
+        "car_name": "X5 Sport",
+        "car_brand": "BMW",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/bmw_x5_15.jpg"
+        ],
+        "colours": [
+            "Black",
+            "Silver",
+            "White",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "1627cc V6",
+            "performance": "306 HP, 13.2 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V6",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,688,461",
+            "ex_showroom_price": "\u20b91,544,354"
+        }
+    },
+    {
+        "id": 16,
+        "car_name": "C-Class Sport",
+        "car_brand": "Mercedes-Benz",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/mercedes-benz_c-class_16.jpg"
+        ],
+        "colours": [
+            "White",
+            "Red",
+            "Grey",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "2696cc V6",
+            "performance": "189 HP, 21.4 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V6",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,166,301",
+            "ex_showroom_price": "\u20b91,068,804"
+        }
+    },
+    {
+        "id": 17,
+        "car_name": "E-Class Base",
+        "car_brand": "Mercedes-Benz",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/mercedes-benz_e-class_17.jpg"
+        ],
+        "colours": [
+            "Grey",
+            "Black",
+            "Silver",
+            "White",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "2996cc Inline-4",
+            "performance": "345 HP, 18.5 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Inline-4",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b9858,210",
+            "ex_showroom_price": "\u20b91,494,683"
+        }
+    },
+    {
+        "id": 18,
+        "car_name": "GLA Top",
+        "car_brand": "Mercedes-Benz",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/mercedes-benz_gla_18.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Red",
+            "White",
+            "Black"
+        ],
+        "specifications": {
+            "engine": "1474cc Electric",
+            "performance": "374 HP, 18.8 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Electric",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,306,134",
+            "ex_showroom_price": "\u20b92,221,788"
+        }
+    },
+    {
+        "id": 19,
+        "car_name": "A4 Premium",
+        "car_brand": "Audi",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/audi_a4_19.jpg"
+        ],
+        "colours": [
+            "Grey",
+            "Black",
+            "Green",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "2312cc Electric",
+            "performance": "314 HP, 11.5 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Electric",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,384,363",
+            "ex_showroom_price": "\u20b92,212,124"
+        }
+    },
+    {
+        "id": 20,
+        "car_name": "Q5 Premium",
+        "car_brand": "Audi",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/audi_q5_20.jpg"
+        ],
+        "colours": [
+            "Green",
+            "Grey"
+        ],
+        "specifications": {
+            "engine": "1435cc V6",
+            "performance": "133 HP, 18.0 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "V6",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b9766,461",
+            "ex_showroom_price": "\u20b92,586,298"
+        }
+    },
+    {
+        "id": 21,
+        "car_name": "A6 Sport",
+        "car_brand": "Audi",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/audi_a6_21.jpg"
+        ],
+        "colours": [
+            "Green",
+            "Blue",
+            "Grey",
+            "White",
+            "Black"
+        ],
+        "specifications": {
+            "engine": "2662cc Electric",
+            "performance": "331 HP, 17.6 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Electric",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,943,448",
+            "ex_showroom_price": "\u20b9740,599"
+        }
+    },
+    {
+        "id": 22,
+        "car_name": "Model S Premium",
+        "car_brand": "Tesla",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/tesla_model_s_22.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "Black"
+        ],
+        "specifications": {
+            "engine": "1897cc Hybrid",
+            "performance": "324 HP, 19.5 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b9807,033",
+            "ex_showroom_price": "\u20b91,909,420"
+        }
+    },
+    {
+        "id": 23,
+        "car_name": "Model 3 Premium",
+        "car_brand": "Tesla",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/tesla_model_3_23.jpg"
+        ],
+        "colours": [
+            "Red",
+            "Grey",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "2843cc V6",
+            "performance": "168 HP, 18.3 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "V6",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b9846,621",
+            "ex_showroom_price": "\u20b91,717,175"
+        }
+    },
+    {
+        "id": 24,
+        "car_name": "Model X Premium",
+        "car_brand": "Tesla",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/tesla_model_x_24.jpg"
+        ],
+        "colours": [
+            "Black",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "2135cc Inline-4",
+            "performance": "373 HP, 13.6 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Inline-4",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,432,516",
+            "ex_showroom_price": "\u20b92,255,642"
+        }
+    },
+    {
+        "id": 25,
+        "car_name": "Seltos Base",
+        "car_brand": "Kia",
+        "country_of_origin": "South Korea",
+        "images": [
+            "https://example.com/images/kia_seltos_25.jpg"
+        ],
+        "colours": [
+            "White",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "1510cc Hybrid",
+            "performance": "294 HP, 16.1 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Hybrid",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,525,689",
+            "ex_showroom_price": "\u20b92,511,002"
+        }
+    },
+    {
+        "id": 26,
+        "car_name": "Sonet Top",
+        "car_brand": "Kia",
+        "country_of_origin": "South Korea",
+        "images": [
+            "https://example.com/images/kia_sonet_26.jpg"
+        ],
+        "colours": [
+            "Green",
+            "Black",
+            "Red",
+            "Silver",
+            "White"
+        ],
+        "specifications": {
+            "engine": "2876cc Inline-4",
+            "performance": "376 HP, 13.6 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Inline-4",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b91,248,840",
+            "ex_showroom_price": "\u20b91,998,282"
+        }
+    },
+    {
+        "id": 27,
+        "car_name": "Carnival Base",
+        "car_brand": "Kia",
+        "country_of_origin": "South Korea",
+        "images": [
+            "https://example.com/images/kia_carnival_27.jpg"
+        ],
+        "colours": [
+            "Red",
+            "Green",
+            "White",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "1654cc Electric",
+            "performance": "270 HP, 22.7 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Electric",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,184,042",
+            "ex_showroom_price": "\u20b91,969,413"
+        }
+    },
+    {
+        "id": 28,
+        "car_name": "Polo Premium",
+        "car_brand": "Volkswagen",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/volkswagen_polo_28.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "White",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "2133cc V8",
+            "performance": "374 HP, 15.9 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V8",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,086,349",
+            "ex_showroom_price": "\u20b91,409,634"
+        }
+    },
+    {
+        "id": 29,
+        "car_name": "Virtus Premium",
+        "car_brand": "Volkswagen",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/volkswagen_virtus_29.jpg"
+        ],
+        "colours": [
+            "Grey",
+            "Green",
+            "Black",
+            "Silver",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "2056cc V8",
+            "performance": "288 HP, 12.3 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V8",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,538,745",
+            "ex_showroom_price": "\u20b91,422,767"
+        }
+    },
+    {
+        "id": 30,
+        "car_name": "Taigun Premium",
+        "car_brand": "Volkswagen",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/volkswagen_taigun_30.jpg"
+        ],
+        "colours": [
+            "Black",
+            "Grey",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "1497cc Electric",
+            "performance": "171 HP, 11.3 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Electric",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b91,331,666",
+            "ex_showroom_price": "\u20b92,304,107"
+        }
+    },
+    {
+        "id": 31,
+        "car_name": "Magnite Top",
+        "car_brand": "Nissan",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/nissan_magnite_31.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "White"
+        ],
+        "specifications": {
+            "engine": "2252cc Hybrid",
+            "performance": "104 HP, 21.0 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Hybrid",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b91,194,156",
+            "ex_showroom_price": "\u20b92,388,342"
+        }
+    },
+    {
+        "id": 32,
+        "car_name": "Kicks Base",
+        "car_brand": "Nissan",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/nissan_kicks_32.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "Grey",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "1853cc Electric",
+            "performance": "187 HP, 20.5 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Electric",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,937,868",
+            "ex_showroom_price": "\u20b92,790,227"
+        }
+    },
+    {
+        "id": 33,
+        "car_name": "Altima Top",
+        "car_brand": "Nissan",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/nissan_altima_33.jpg"
+        ],
+        "colours": [
+            "Red",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "2126cc V6",
+            "performance": "235 HP, 20.2 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V6",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,908,649",
+            "ex_showroom_price": "\u20b91,941,395"
+        }
+    },
+    {
+        "id": 34,
+        "car_name": "Trailblazer Top",
+        "car_brand": "Chevrolet",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/chevrolet_trailblazer_34.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "1369cc Electric",
+            "performance": "364 HP, 12.7 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Electric",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b91,086,659",
+            "ex_showroom_price": "\u20b91,155,946"
+        }
+    },
+    {
+        "id": 35,
+        "car_name": "Captiva Base",
+        "car_brand": "Chevrolet",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/chevrolet_captiva_35.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "Grey",
+            "Blue",
+            "Black",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "2209cc V8",
+            "performance": "301 HP, 12.1 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "V8",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b91,383,001",
+            "ex_showroom_price": "\u20b92,436,137"
+        }
+    },
+    {
+        "id": 36,
+        "car_name": "Compass Premium",
+        "car_brand": "Jeep",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/jeep_compass_36.jpg"
+        ],
+        "colours": [
+            "White",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "2466cc V8",
+            "performance": "238 HP, 21.3 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V8",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b91,930,744",
+            "ex_showroom_price": "\u20b92,503,066"
+        }
+    },
+    {
+        "id": 37,
+        "car_name": "Wrangler Sport",
+        "car_brand": "Jeep",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/jeep_wrangler_37.jpg"
+        ],
+        "colours": [
+            "White",
+            "Silver",
+            "Black",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "1989cc Hybrid",
+            "performance": "361 HP, 11.8 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b92,132,069",
+            "ex_showroom_price": "\u20b91,888,645"
+        }
+    },
+    {
+        "id": 38,
+        "car_name": "XUV700 Top",
+        "car_brand": "Mahindra",
+        "country_of_origin": "India",
+        "images": [
+            "https://example.com/images/mahindra_xuv700_38.jpg"
+        ],
+        "colours": [
+            "Grey",
+            "Black",
+            "Blue",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "1947cc V6",
+            "performance": "105 HP, 14.4 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "V6",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,794,021",
+            "ex_showroom_price": "\u20b9737,689"
+        }
+    },
+    {
+        "id": 39,
+        "car_name": "Thar Top",
+        "car_brand": "Mahindra",
+        "country_of_origin": "India",
+        "images": [
+            "https://example.com/images/mahindra_thar_39.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Grey"
+        ],
+        "specifications": {
+            "engine": "2053cc Hybrid",
+            "performance": "217 HP, 15.1 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,860,662",
+            "ex_showroom_price": "\u20b92,078,951"
+        }
+    },
+    {
+        "id": 40,
+        "car_name": "Scorpio Top",
+        "car_brand": "Mahindra",
+        "country_of_origin": "India",
+        "images": [
+            "https://example.com/images/mahindra_scorpio_40.jpg"
+        ],
+        "colours": [
+            "White",
+            "Grey",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "2428cc Hybrid",
+            "performance": "314 HP, 15.6 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,110,834",
+            "ex_showroom_price": "\u20b91,020,383"
+        }
+    },
+    {
+        "id": 41,
+        "car_name": "Harrier Premium",
+        "car_brand": "Tata",
+        "country_of_origin": "India",
+        "images": [
+            "https://example.com/images/tata_harrier_41.jpg"
+        ],
+        "colours": [
+            "Grey",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "1941cc Hybrid",
+            "performance": "191 HP, 15.6 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b91,853,559",
+            "ex_showroom_price": "\u20b9667,902"
+        }
+    },
+    {
+        "id": 42,
+        "car_name": "Safari Top",
+        "car_brand": "Tata",
+        "country_of_origin": "India",
+        "images": [
+            "https://example.com/images/tata_safari_42.jpg"
+        ],
+        "colours": [
+            "Black",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "1560cc Inline-4",
+            "performance": "378 HP, 24.5 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Inline-4",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b91,285,958",
+            "ex_showroom_price": "\u20b91,237,161"
+        }
+    },
+    {
+        "id": 43,
+        "car_name": "Nexon Top",
+        "car_brand": "Tata",
+        "country_of_origin": "India",
+        "images": [
+            "https://example.com/images/tata_nexon_43.jpg"
+        ],
+        "colours": [
+            "Green",
+            "Red",
+            "Blue",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "2961cc Inline-4",
+            "performance": "227 HP, 16.0 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Inline-4",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b9788,040",
+            "ex_showroom_price": "\u20b92,475,924"
+        }
+    },
+    {
+        "id": 44,
+        "car_name": "Kushaq Base",
+        "car_brand": "Skoda",
+        "country_of_origin": "Czech Republic",
+        "images": [
+            "https://example.com/images/skoda_kushaq_44.jpg"
+        ],
+        "colours": [
+            "Black",
+            "Blue",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "1225cc Hybrid",
+            "performance": "180 HP, 17.7 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b92,464,372",
+            "ex_showroom_price": "\u20b92,074,492"
+        }
+    },
+    {
+        "id": 45,
+        "car_name": "Slavia Top",
+        "car_brand": "Skoda",
+        "country_of_origin": "Czech Republic",
+        "images": [
+            "https://example.com/images/skoda_slavia_45.jpg"
+        ],
+        "colours": [
+            "Grey",
+            "Black",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "2758cc Hybrid",
+            "performance": "149 HP, 16.7 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b92,108,661",
+            "ex_showroom_price": "\u20b9920,338"
+        }
+    },
+    {
+        "id": 46,
+        "car_name": "Octavia Base",
+        "car_brand": "Skoda",
+        "country_of_origin": "Czech Republic",
+        "images": [
+            "https://example.com/images/skoda_octavia_46.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "1359cc V8",
+            "performance": "248 HP, 10.6 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "V8",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,682,827",
+            "ex_showroom_price": "\u20b9756,761"
+        }
+    },
+    {
+        "id": 47,
+        "car_name": "Hector Premium",
+        "car_brand": "MG",
+        "country_of_origin": "China",
+        "images": [
+            "https://example.com/images/mg_hector_47.jpg"
+        ],
+        "colours": [
+            "Grey",
+            "White",
+            "Green",
+            "Blue",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "2266cc V8",
+            "performance": "137 HP, 12.0 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V8",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,797,373",
+            "ex_showroom_price": "\u20b92,288,006"
+        }
+    },
+    {
+        "id": 48,
+        "car_name": "Astor Top",
+        "car_brand": "MG",
+        "country_of_origin": "China",
+        "images": [
+            "https://example.com/images/mg_astor_48.jpg"
+        ],
+        "colours": [
+            "Grey",
+            "White",
+            "Black"
+        ],
+        "specifications": {
+            "engine": "2602cc V6",
+            "performance": "193 HP, 17.8 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V6",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,608,474",
+            "ex_showroom_price": "\u20b9730,352"
+        }
+    },
+    {
+        "id": 49,
+        "car_name": "ZS EV Top",
+        "car_brand": "MG",
+        "country_of_origin": "China",
+        "images": [
+            "https://example.com/images/mg_zs_ev_49.jpg"
+        ],
+        "colours": [
+            "White",
+            "Black"
+        ],
+        "specifications": {
+            "engine": "2653cc Inline-4",
+            "performance": "112 HP, 23.9 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Inline-4",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,752,593",
+            "ex_showroom_price": "\u20b91,290,091"
+        }
+    },
+    {
+        "id": 50,
+        "car_name": "Camry Top",
+        "car_brand": "Toyota",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/toyota_camry_50.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "Red",
+            "Blue",
+            "Grey",
+            "White"
+        ],
+        "specifications": {
+            "engine": "1494cc Hybrid",
+            "performance": "231 HP, 16.0 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Hybrid",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b91,243,238",
+            "ex_showroom_price": "\u20b9618,529"
+        }
+    },
+    {
+        "id": 51,
+        "car_name": "Corolla Premium",
+        "car_brand": "Toyota",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/toyota_corolla_51.jpg"
+        ],
+        "colours": [
+            "Red",
+            "Green",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "1507cc V8",
+            "performance": "239 HP, 13.9 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V8",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b91,540,634",
+            "ex_showroom_price": "\u20b92,100,385"
+        }
+    },
+    {
+        "id": 52,
+        "car_name": "Fortuner Premium",
+        "car_brand": "Toyota",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/toyota_fortuner_52.jpg"
+        ],
+        "colours": [
+            "Green",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "1829cc Hybrid",
+            "performance": "366 HP, 20.1 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Hybrid",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b92,571,809",
+            "ex_showroom_price": "\u20b92,731,221"
+        }
+    },
+    {
+        "id": 53,
+        "car_name": "Civic Premium",
+        "car_brand": "Honda",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/honda_civic_53.jpg"
+        ],
+        "colours": [
+            "Grey",
+            "Silver",
+            "Blue",
+            "Green",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "2284cc V8",
+            "performance": "365 HP, 24.2 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V8",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b9707,244",
+            "ex_showroom_price": "\u20b92,655,003"
+        }
+    },
+    {
+        "id": 54,
+        "car_name": "City Premium",
+        "car_brand": "Honda",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/honda_city_54.jpg"
+        ],
+        "colours": [
+            "Red",
+            "Grey",
+            "Black",
+            "White"
+        ],
+        "specifications": {
+            "engine": "2348cc V8",
+            "performance": "354 HP, 17.0 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "V8",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b91,565,577",
+            "ex_showroom_price": "\u20b92,036,449"
+        }
+    },
+    {
+        "id": 55,
+        "car_name": "CR-V Sport",
+        "car_brand": "Honda",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/honda_cr-v_55.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Grey",
+            "White",
+            "Black"
+        ],
+        "specifications": {
+            "engine": "2663cc V8",
+            "performance": "371 HP, 10.5 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "V8",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b91,650,296",
+            "ex_showroom_price": "\u20b92,703,501"
+        }
+    },
+    {
+        "id": 56,
+        "car_name": "Creta Top",
+        "car_brand": "Hyundai",
+        "country_of_origin": "South Korea",
+        "images": [
+            "https://example.com/images/hyundai_creta_56.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Green",
+            "Grey",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "1806cc Electric",
+            "performance": "266 HP, 18.9 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Electric",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b91,888,010",
+            "ex_showroom_price": "\u20b9733,930"
+        }
+    },
+    {
+        "id": 57,
+        "car_name": "i20 Base",
+        "car_brand": "Hyundai",
+        "country_of_origin": "South Korea",
+        "images": [
+            "https://example.com/images/hyundai_i20_57.jpg"
+        ],
+        "colours": [
+            "Red",
+            "White",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "1753cc Hybrid",
+            "performance": "210 HP, 22.3 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Hybrid",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b9898,788",
+            "ex_showroom_price": "\u20b92,483,295"
+        }
+    },
+    {
+        "id": 58,
+        "car_name": "Verna Base",
+        "car_brand": "Hyundai",
+        "country_of_origin": "South Korea",
+        "images": [
+            "https://example.com/images/hyundai_verna_58.jpg"
+        ],
+        "colours": [
+            "Grey",
+            "White",
+            "Red",
+            "Black"
+        ],
+        "specifications": {
+            "engine": "2073cc Hybrid",
+            "performance": "372 HP, 10.3 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Hybrid",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b91,435,081",
+            "ex_showroom_price": "\u20b91,171,185"
+        }
+    },
+    {
+        "id": 59,
+        "car_name": "Mustang Premium",
+        "car_brand": "Ford",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/ford_mustang_59.jpg"
+        ],
+        "colours": [
+            "Grey",
+            "Silver",
+            "Black",
+            "White"
+        ],
+        "specifications": {
+            "engine": "1432cc Electric",
+            "performance": "400 HP, 18.6 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Electric",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b91,455,011",
+            "ex_showroom_price": "\u20b92,542,537"
+        }
+    },
+    {
+        "id": 60,
+        "car_name": "EcoSport Base",
+        "car_brand": "Ford",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/ford_ecosport_60.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "White",
+            "Red",
+            "Grey"
+        ],
+        "specifications": {
+            "engine": "1959cc Hybrid",
+            "performance": "312 HP, 10.0 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Hybrid",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b91,375,034",
+            "ex_showroom_price": "\u20b91,974,408"
+        }
+    },
+    {
+        "id": 61,
+        "car_name": "Endeavour Top",
+        "car_brand": "Ford",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/ford_endeavour_61.jpg"
+        ],
+        "colours": [
+            "Green",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "1981cc V6",
+            "performance": "279 HP, 12.5 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "V6",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,280,663",
+            "ex_showroom_price": "\u20b91,816,881"
+        }
+    },
+    {
+        "id": 62,
+        "car_name": "3 Series Premium",
+        "car_brand": "BMW",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/bmw_3_series_62.jpg"
+        ],
+        "colours": [
+            "Green",
+            "Blue",
+            "Silver",
+            "White",
+            "Black"
+        ],
+        "specifications": {
+            "engine": "1326cc V6",
+            "performance": "228 HP, 17.4 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "V6",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b91,541,364",
+            "ex_showroom_price": "\u20b92,150,929"
+        }
+    },
+    {
+        "id": 63,
+        "car_name": "5 Series Premium",
+        "car_brand": "BMW",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/bmw_5_series_63.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "Grey",
+            "Blue",
+            "Green",
+            "Black"
+        ],
+        "specifications": {
+            "engine": "1856cc Hybrid",
+            "performance": "156 HP, 14.9 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Hybrid",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b91,597,172",
+            "ex_showroom_price": "\u20b91,438,192"
+        }
+    },
+    {
+        "id": 64,
+        "car_name": "X5 Top",
+        "car_brand": "BMW",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/bmw_x5_64.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Silver",
+            "White",
+            "Red",
+            "Grey"
+        ],
+        "specifications": {
+            "engine": "1916cc Inline-4",
+            "performance": "331 HP, 10.4 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Inline-4",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,885,846",
+            "ex_showroom_price": "\u20b91,859,394"
+        }
+    },
+    {
+        "id": 65,
+        "car_name": "C-Class Base",
+        "car_brand": "Mercedes-Benz",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/mercedes-benz_c-class_65.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Red",
+            "Green",
+            "Black"
+        ],
+        "specifications": {
+            "engine": "2925cc V6",
+            "performance": "120 HP, 20.6 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V6",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b91,600,491",
+            "ex_showroom_price": "\u20b91,999,979"
+        }
+    },
+    {
+        "id": 66,
+        "car_name": "E-Class Sport",
+        "car_brand": "Mercedes-Benz",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/mercedes-benz_e-class_66.jpg"
+        ],
+        "colours": [
+            "Black",
+            "Red",
+            "Grey",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "2137cc V6",
+            "performance": "307 HP, 14.6 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V6",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b91,220,568",
+            "ex_showroom_price": "\u20b92,214,590"
+        }
+    },
+    {
+        "id": 67,
+        "car_name": "GLA Premium",
+        "car_brand": "Mercedes-Benz",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/mercedes-benz_gla_67.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Black",
+            "Grey"
+        ],
+        "specifications": {
+            "engine": "1267cc V6",
+            "performance": "241 HP, 15.8 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "V6",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,592,968",
+            "ex_showroom_price": "\u20b92,195,134"
+        }
+    },
+    {
+        "id": 68,
+        "car_name": "A4 Top",
+        "car_brand": "Audi",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/audi_a4_68.jpg"
+        ],
+        "colours": [
+            "White",
+            "Green",
+            "Black",
+            "Grey",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "2595cc V8",
+            "performance": "262 HP, 19.5 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "V8",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b92,633,573",
+            "ex_showroom_price": "\u20b91,966,864"
+        }
+    },
+    {
+        "id": 69,
+        "car_name": "Q5 Top",
+        "car_brand": "Audi",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/audi_q5_69.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Green",
+            "Black",
+            "Red",
+            "White"
+        ],
+        "specifications": {
+            "engine": "2236cc V8",
+            "performance": "342 HP, 24.0 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "V8",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,265,872",
+            "ex_showroom_price": "\u20b92,334,074"
+        }
+    },
+    {
+        "id": 70,
+        "car_name": "A6 Sport",
+        "car_brand": "Audi",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/audi_a6_70.jpg"
+        ],
+        "colours": [
+            "Red",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "2883cc Electric",
+            "performance": "310 HP, 15.5 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Electric",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b92,805,061",
+            "ex_showroom_price": "\u20b91,164,969"
+        }
+    },
+    {
+        "id": 71,
+        "car_name": "Model S Top",
+        "car_brand": "Tesla",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/tesla_model_s_71.jpg"
+        ],
+        "colours": [
+            "White",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "1601cc Inline-4",
+            "performance": "376 HP, 10.1 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Inline-4",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b91,694,975",
+            "ex_showroom_price": "\u20b9693,728"
+        }
+    },
+    {
+        "id": 72,
+        "car_name": "Model 3 Premium",
+        "car_brand": "Tesla",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/tesla_model_3_72.jpg"
+        ],
+        "colours": [
+            "White",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "2240cc V6",
+            "performance": "213 HP, 16.8 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "V6",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,671,615",
+            "ex_showroom_price": "\u20b91,142,208"
+        }
+    },
+    {
+        "id": 73,
+        "car_name": "Model X Sport",
+        "car_brand": "Tesla",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/tesla_model_x_73.jpg"
+        ],
+        "colours": [
+            "Green",
+            "Red",
+            "Silver",
+            "White",
+            "Black"
+        ],
+        "specifications": {
+            "engine": "2009cc V6",
+            "performance": "169 HP, 18.6 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V6",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b91,740,669",
+            "ex_showroom_price": "\u20b91,248,523"
+        }
+    },
+    {
+        "id": 74,
+        "car_name": "Seltos Premium",
+        "car_brand": "Kia",
+        "country_of_origin": "South Korea",
+        "images": [
+            "https://example.com/images/kia_seltos_74.jpg"
+        ],
+        "colours": [
+            "White",
+            "Silver",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "2812cc V6",
+            "performance": "319 HP, 21.3 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "V6",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,982,138",
+            "ex_showroom_price": "\u20b92,457,306"
+        }
+    },
+    {
+        "id": 75,
+        "car_name": "Sonet Premium",
+        "car_brand": "Kia",
+        "country_of_origin": "South Korea",
+        "images": [
+            "https://example.com/images/kia_sonet_75.jpg"
+        ],
+        "colours": [
+            "Red",
+            "Blue",
+            "Black",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "2248cc V6",
+            "performance": "336 HP, 14.9 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "V6",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b91,093,050",
+            "ex_showroom_price": "\u20b9892,439"
+        }
+    },
+    {
+        "id": 76,
+        "car_name": "Carnival Base",
+        "car_brand": "Kia",
+        "country_of_origin": "South Korea",
+        "images": [
+            "https://example.com/images/kia_carnival_76.jpg"
+        ],
+        "colours": [
+            "White",
+            "Green",
+            "Red",
+            "Grey",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "2095cc V8",
+            "performance": "350 HP, 11.4 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "V8",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b91,903,478",
+            "ex_showroom_price": "\u20b9943,918"
+        }
+    },
+    {
+        "id": 77,
+        "car_name": "Polo Top",
+        "car_brand": "Volkswagen",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/volkswagen_polo_77.jpg"
+        ],
+        "colours": [
+            "White",
+            "Green",
+            "Silver",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "2204cc V8",
+            "performance": "263 HP, 13.9 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V8",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b92,752,445",
+            "ex_showroom_price": "\u20b92,544,056"
+        }
+    },
+    {
+        "id": 78,
+        "car_name": "Virtus Sport",
+        "car_brand": "Volkswagen",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/volkswagen_virtus_78.jpg"
+        ],
+        "colours": [
+            "Green",
+            "Grey",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "1511cc Inline-4",
+            "performance": "306 HP, 12.2 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Inline-4",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b9801,929",
+            "ex_showroom_price": "\u20b9766,656"
+        }
+    },
+    {
+        "id": 79,
+        "car_name": "Taigun Sport",
+        "car_brand": "Volkswagen",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://example.com/images/volkswagen_taigun_79.jpg"
+        ],
+        "colours": [
+            "Black",
+            "Blue",
+            "White",
+            "Grey"
+        ],
+        "specifications": {
+            "engine": "2542cc V8",
+            "performance": "356 HP, 20.3 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V8",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,326,200",
+            "ex_showroom_price": "\u20b92,708,051"
+        }
+    },
+    {
+        "id": 80,
+        "car_name": "Magnite Top",
+        "car_brand": "Nissan",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/nissan_magnite_80.jpg"
+        ],
+        "colours": [
+            "Grey",
+            "White",
+            "Red",
+            "Green",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "2794cc Electric",
+            "performance": "342 HP, 21.7 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Electric",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,065,215",
+            "ex_showroom_price": "\u20b92,357,043"
+        }
+    },
+    {
+        "id": 81,
+        "car_name": "Kicks Base",
+        "car_brand": "Nissan",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/nissan_kicks_81.jpg"
+        ],
+        "colours": [
+            "Green",
+            "Grey"
+        ],
+        "specifications": {
+            "engine": "2223cc V6",
+            "performance": "234 HP, 19.2 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V6",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,510,513",
+            "ex_showroom_price": "\u20b91,074,195"
+        }
+    },
+    {
+        "id": 82,
+        "car_name": "Altima Sport",
+        "car_brand": "Nissan",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/nissan_altima_82.jpg"
+        ],
+        "colours": [
+            "White",
+            "Silver",
+            "Blue",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "1471cc Hybrid",
+            "performance": "137 HP, 13.7 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Hybrid",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,099,366",
+            "ex_showroom_price": "\u20b91,127,155"
+        }
+    },
+    {
+        "id": 83,
+        "car_name": "Trailblazer Base",
+        "car_brand": "Chevrolet",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/chevrolet_trailblazer_83.jpg"
+        ],
+        "colours": [
+            "Green",
+            "White"
+        ],
+        "specifications": {
+            "engine": "1729cc Hybrid",
+            "performance": "135 HP, 21.1 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b91,133,254",
+            "ex_showroom_price": "\u20b9885,572"
+        }
+    },
+    {
+        "id": 84,
+        "car_name": "Captiva Base",
+        "car_brand": "Chevrolet",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/chevrolet_captiva_84.jpg"
+        ],
+        "colours": [
+            "White",
+            "Black",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "1647cc Electric",
+            "performance": "173 HP, 24.0 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Electric",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b9925,014",
+            "ex_showroom_price": "\u20b9772,395"
+        }
+    },
+    {
+        "id": 85,
+        "car_name": "Compass Top",
+        "car_brand": "Jeep",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/jeep_compass_85.jpg"
+        ],
+        "colours": [
+            "White",
+            "Red",
+            "Green",
+            "Black"
+        ],
+        "specifications": {
+            "engine": "1834cc Hybrid",
+            "performance": "293 HP, 16.7 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b91,422,147",
+            "ex_showroom_price": "\u20b92,776,924"
+        }
+    },
+    {
+        "id": 86,
+        "car_name": "Wrangler Top",
+        "car_brand": "Jeep",
+        "country_of_origin": "USA",
+        "images": [
+            "https://example.com/images/jeep_wrangler_86.jpg"
+        ],
+        "colours": [
+            "White",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "2100cc Inline-4",
+            "performance": "398 HP, 17.6 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Inline-4",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,234,259",
+            "ex_showroom_price": "\u20b91,482,010"
+        }
+    },
+    {
+        "id": 87,
+        "car_name": "XUV700 Base",
+        "car_brand": "Mahindra",
+        "country_of_origin": "India",
+        "images": [
+            "https://example.com/images/mahindra_xuv700_87.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Silver",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "1863cc Hybrid",
+            "performance": "232 HP, 16.9 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Hybrid",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,268,993",
+            "ex_showroom_price": "\u20b91,491,744"
+        }
+    },
+    {
+        "id": 88,
+        "car_name": "Thar Premium",
+        "car_brand": "Mahindra",
+        "country_of_origin": "India",
+        "images": [
+            "https://example.com/images/mahindra_thar_88.jpg"
+        ],
+        "colours": [
+            "Green",
+            "White"
+        ],
+        "specifications": {
+            "engine": "2260cc Hybrid",
+            "performance": "223 HP, 12.1 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Hybrid",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,305,008",
+            "ex_showroom_price": "\u20b92,173,578"
+        }
+    },
+    {
+        "id": 89,
+        "car_name": "Scorpio Top",
+        "car_brand": "Mahindra",
+        "country_of_origin": "India",
+        "images": [
+            "https://example.com/images/mahindra_scorpio_89.jpg"
+        ],
+        "colours": [
+            "Red",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "1998cc V6",
+            "performance": "166 HP, 11.0 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "V6",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b92,310,278",
+            "ex_showroom_price": "\u20b91,025,535"
+        }
+    },
+    {
+        "id": 90,
+        "car_name": "Harrier Premium",
+        "car_brand": "Tata",
+        "country_of_origin": "India",
+        "images": [
+            "https://example.com/images/tata_harrier_90.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Silver",
+            "White",
+            "Black",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "1256cc Inline-4",
+            "performance": "378 HP, 23.2 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Inline-4",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b91,183,524",
+            "ex_showroom_price": "\u20b92,534,860"
+        }
+    },
+    {
+        "id": 91,
+        "car_name": "Safari Top",
+        "car_brand": "Tata",
+        "country_of_origin": "India",
+        "images": [
+            "https://example.com/images/tata_safari_91.jpg"
+        ],
+        "colours": [
+            "Black",
+            "Blue",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "2727cc V8",
+            "performance": "258 HP, 15.2 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "V8",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b92,896,084",
+            "ex_showroom_price": "\u20b9778,922"
+        }
+    },
+    {
+        "id": 92,
+        "car_name": "Nexon Base",
+        "car_brand": "Tata",
+        "country_of_origin": "India",
+        "images": [
+            "https://example.com/images/tata_nexon_92.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "Green",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "2048cc Hybrid",
+            "performance": "274 HP, 13.2 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Hybrid",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b91,553,114",
+            "ex_showroom_price": "\u20b91,749,225"
+        }
+    },
+    {
+        "id": 93,
+        "car_name": "Kushaq Base",
+        "car_brand": "Skoda",
+        "country_of_origin": "Czech Republic",
+        "images": [
+            "https://example.com/images/skoda_kushaq_93.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Grey",
+            "White"
+        ],
+        "specifications": {
+            "engine": "2786cc Hybrid",
+            "performance": "399 HP, 16.4 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Hybrid",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b9946,623",
+            "ex_showroom_price": "\u20b92,712,087"
+        }
+    },
+    {
+        "id": 94,
+        "car_name": "Slavia Premium",
+        "car_brand": "Skoda",
+        "country_of_origin": "Czech Republic",
+        "images": [
+            "https://example.com/images/skoda_slavia_94.jpg"
+        ],
+        "colours": [
+            "Black",
+            "Silver",
+            "Red",
+            "Green",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "2633cc V6",
+            "performance": "140 HP, 11.1 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "V6",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b92,892,917",
+            "ex_showroom_price": "\u20b9965,326"
+        }
+    },
+    {
+        "id": 95,
+        "car_name": "Octavia Premium",
+        "car_brand": "Skoda",
+        "country_of_origin": "Czech Republic",
+        "images": [
+            "https://example.com/images/skoda_octavia_95.jpg"
+        ],
+        "colours": [
+            "White",
+            "Silver",
+            "Green",
+            "Black",
+            "Grey"
+        ],
+        "specifications": {
+            "engine": "1428cc V6",
+            "performance": "292 HP, 12.7 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "V6",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,555,619",
+            "ex_showroom_price": "\u20b91,020,214"
+        }
+    },
+    {
+        "id": 96,
+        "car_name": "Hector Premium",
+        "car_brand": "MG",
+        "country_of_origin": "China",
+        "images": [
+            "https://example.com/images/mg_hector_96.jpg"
+        ],
+        "colours": [
+            "Green",
+            "Red",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "2711cc Hybrid",
+            "performance": "161 HP, 24.7 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Hybrid",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,385,490",
+            "ex_showroom_price": "\u20b91,441,077"
+        }
+    },
+    {
+        "id": 97,
+        "car_name": "Astor Sport",
+        "car_brand": "MG",
+        "country_of_origin": "China",
+        "images": [
+            "https://example.com/images/mg_astor_97.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "Black",
+            "Blue",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "2077cc V8",
+            "performance": "345 HP, 14.7 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V8",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b92,931,121",
+            "ex_showroom_price": "\u20b91,524,907"
+        }
+    },
+    {
+        "id": 98,
+        "car_name": "ZS EV Top",
+        "car_brand": "MG",
+        "country_of_origin": "China",
+        "images": [
+            "https://example.com/images/mg_zs_ev_98.jpg"
+        ],
+        "colours": [
+            "Grey",
+            "Silver",
+            "Blue",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "1554cc Electric",
+            "performance": "222 HP, 15.4 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Electric",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,928,951",
+            "ex_showroom_price": "\u20b91,669,121"
+        }
+    },
+    {
+        "id": 99,
+        "car_name": "Camry Base",
+        "car_brand": "Toyota",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/toyota_camry_99.jpg"
+        ],
+        "colours": [
+            "Green",
+            "Silver",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "2021cc V8",
+            "performance": "167 HP, 19.9 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "V8",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b91,255,991",
+            "ex_showroom_price": "\u20b91,823,839"
+        }
+    },
+    {
+        "id": 100,
+        "car_name": "Corolla Sport",
+        "car_brand": "Toyota",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/toyota_corolla_100.jpg"
+        ],
+        "colours": [
+            "White",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "2004cc Inline-4",
+            "performance": "301 HP, 24.9 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Inline-4",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b91,097,894",
+            "ex_showroom_price": "\u20b91,043,378"
+        }
+    }
+]
