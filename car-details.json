@@ -1,0 +1,1269 @@
+[
+    {
+        "id": 1,
+        "car_name": "Camry Sport",
+        "car_brand": "Toyota",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://tse3.mm.bing.net/th?id=OIP.4gS2LEGf0y-5LzbWIFiQcgHaEo&pid=Api&P=0&h=180"
+        ],
+        "colours": [
+            "Green",
+            "White"
+        ],
+        "specifications": {
+            "engine": "1671cc Electric",
+            "performance": "241 HP, 13.3 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Electric",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b91,157,720",
+            "ex_showroom_price": "\u20b9803,664"
+        }
+    },
+    {
+        "id": 2,
+        "car_name": "Corolla Top",
+        "car_brand": "Toyota",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://images.overdrive.in/wp-content/uploads/2022/04/MY23_GR-Corolla-Circuit-Edition_01-900x506.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "Blue",
+            "Black",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "1205cc Hybrid",
+            "performance": "367 HP, 11.6 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b9841,735",
+            "ex_showroom_price": "\u20b9898,612"
+        }
+    },
+    {
+        "id": 3,
+        "car_name": "Fortuner Top",
+        "car_brand": "Toyota",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/44709/fortuner-exterior-left-front-three-quarter.jpeg?q=80&q=80"
+        ],
+        "colours": [
+            "Silver",
+            "Black",
+            "Red",
+            "White",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "1363cc Hybrid",
+            "performance": "223 HP, 18.2 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,021,965",
+            "ex_showroom_price": "\u20b9878,230"
+        }
+    },
+    {
+        "id": 4,
+        "car_name": "Civic Premium",
+        "car_brand": "Honda",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://gaadiwaadi.com/wp-content/uploads/2016/09/2017-Honda-Civic-Hatchback.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Green",
+            "Red",
+            "Grey",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "1421cc Hybrid",
+            "performance": "325 HP, 23.3 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b92,343,871",
+            "ex_showroom_price": "\u20b92,754,464"
+        }
+    },
+    {
+        "id": 5,
+        "car_name": "City Sport",
+        "car_brand": "Honda",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://akm-img-a-in.tosshub.com/indiatoday/images/photogallery/202005/01.jpeg?VersionId=tK8GXBRhJRhtjAIRqiKihFheT6Q2M_1J"
+        ],
+        "colours": [
+            "Red",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "1394cc V6",
+            "performance": "120 HP, 19.5 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "V6",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b91,427,597",
+            "ex_showroom_price": "\u20b91,172,377"
+        }
+    },
+    {
+        "id": 6,
+        "car_name": "CR-V Sport",
+        "car_brand": "Honda",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://stimg.cardekho.com/images/carexteriorimages/930x620/Honda/CR-V/7739/1585800250804/front-left-side-47.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "Red",
+            "Grey",
+            "Blue",
+            "White"
+        ],
+        "specifications": {
+            "engine": "2997cc Electric",
+            "performance": "199 HP, 23.9 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Electric",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b91,306,916",
+            "ex_showroom_price": "\u20b91,953,888"
+        }
+    },
+    {
+        "id": 7,
+        "car_name": "Creta Sport",
+        "car_brand": "Hyundai",
+        "country_of_origin": "South Korea",
+        "images": [
+            "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202205/Hyundai_CRETA_Knight_Edition_f.jpg?VersionId=jPNRAMTn7xCgDIA6AdxVG6n0LiQS_QnX&size=690:388"
+        ],
+        "colours": [
+            "Blue",
+            "Green",
+            "Black",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "2652cc Inline-4",
+            "performance": "159 HP, 13.4 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Inline-4",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b92,945,342",
+            "ex_showroom_price": "\u20b9765,662"
+        }
+    },
+    {
+        "id": 8,
+        "car_name": "i20 Top",
+        "car_brand": "Hyundai",
+        "country_of_origin": "South Korea",
+        "images": [
+            "https://www.carz4sale.in/pictures/default/hyundai-i20-1-0l-turbo-gdi-sportz-petrol-imt/hyundai-i20-1-0l-turbo-gdi-sportz-petrol-imt-640.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "Blue",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "1924cc Inline-4",
+            "performance": "356 HP, 16.7 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Inline-4",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b91,178,283",
+            "ex_showroom_price": "\u20b91,963,085"
+        }
+    },
+    {
+        "id": 9,
+        "car_name": "Verna Sport",
+        "car_brand": "Hyundai",
+        "country_of_origin": "South Korea",
+        "images": [
+            "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Verna/8703/1736412929424/front-left-side-47.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "2743cc Hybrid",
+            "performance": "105 HP, 16.6 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Hybrid",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b9953,617",
+            "ex_showroom_price": "\u20b92,458,304"
+        }
+    },
+    {
+        "id": 10,
+        "car_name": "Mustang Base",
+        "car_brand": "Ford",
+        "country_of_origin": "USA",
+        "images": [
+            "https://www.vdm.ford.com/content/dam/na/ford/en_us/images/mustang/2025/jellybeans/Ford_Mustang_2025_100A_PYZ_88D_89W_13A_COU_64F_99H_44U_EBST_DEFAULT_EXT_4.png"
+        ],
+        "colours": [
+            "Blue",
+            "Silver",
+            "Grey",
+            "Black",
+            "White"
+        ],
+        "specifications": {
+            "engine": "1211cc V6",
+            "performance": "129 HP, 21.5 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "V6",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b91,338,668",
+            "ex_showroom_price": "\u20b91,844,533"
+        }
+    },
+    {
+        "id": 11,
+        "car_name": "EcoSport Top",
+        "car_brand": "Ford",
+        "country_of_origin": "USA",
+        "images": [
+            "https://stimg.cardekho.com/images/carexteriorimages/930x620/Ford/EcoSport/7323/1609839628163/front-left-side-47.jpg"
+        ],
+        "colours": [
+            "White",
+            "Black"
+        ],
+        "specifications": {
+            "engine": "1345cc Hybrid",
+            "performance": "321 HP, 20.0 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Hybrid",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b92,999,904",
+            "ex_showroom_price": "\u20b91,947,342"
+        }
+    },
+    {
+        "id": 12,
+        "car_name": "Endeavour Premium",
+        "car_brand": "Ford",
+        "country_of_origin": "USA",
+        "images": [
+            "https://imgd.aeplcdn.com/664x374/n/cw/ec/37640/endeavour-exterior-left-side-view-2.jpeg?q=80"
+        ],
+        "colours": [
+            "Green",
+            "White",
+            "Black",
+            "Grey"
+        ],
+        "specifications": {
+            "engine": "1655cc Hybrid",
+            "performance": "168 HP, 23.4 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Hybrid",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b92,773,865",
+            "ex_showroom_price": "\u20b91,678,014"
+        }
+    },
+    {
+        "id": 13,
+        "car_name": "3 Series Sport",
+        "car_brand": "BMW",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/3-Series/10574/1689667781970/front-left-side-47.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "Green",
+            "Red",
+            "White"
+        ],
+        "specifications": {
+            "engine": "2326cc V6",
+            "performance": "192 HP, 17.8 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "V6",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b91,592,249",
+            "ex_showroom_price": "\u20b91,212,846"
+        }
+    },
+    {
+        "id": 14,
+        "car_name": "5 Series Top",
+        "car_brand": "BMW",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://www.financialexpress.com/wp-content/uploads/2021/10/BMW-5-Series-Carbon-Edition.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "2547cc V8",
+            "performance": "385 HP, 24.5 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "V8",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,660,823",
+            "ex_showroom_price": "\u20b92,020,339"
+        }
+    },
+    {
+        "id": 15,
+        "car_name": "X5 Sport",
+        "car_brand": "BMW",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/X5-2023/10452/1688992642182/front-left-side-47.jpg"
+        ],
+        "colours": [
+            "Black",
+            "Silver",
+            "White",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "1627cc V6",
+            "performance": "306 HP, 13.2 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V6",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,688,461",
+            "ex_showroom_price": "\u20b91,544,354"
+        }
+    },
+    {
+        "id": 16,
+        "car_name": "C-Class Sport",
+        "car_brand": "Mercedes-Benz",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://www.financialexpress.com/wp-content/uploads/2022/05/Mercedes-Benz-C-Class-1.jpg"
+        ],
+        "colours": [
+            "White",
+            "Red",
+            "Grey",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "2696cc V6",
+            "performance": "189 HP, 21.4 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V6",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,166,301",
+            "ex_showroom_price": "\u20b91,068,804"
+        }
+    },
+    {
+        "id": 17,
+        "car_name": "E-Class Base",
+        "car_brand": "Mercedes-Benz",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://acko-cms.ackoassets.com/E_Class_Germany_Static_5_b836ab9c57.jpg"
+        ],
+        "colours": [
+            "Grey",
+            "Black",
+            "Silver",
+            "White",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "2996cc Inline-4",
+            "performance": "345 HP, 18.5 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Inline-4",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b9858,210",
+            "ex_showroom_price": "\u20b91,494,683"
+        }
+    },
+    {
+        "id": 18,
+        "car_name": "GLA Top",
+        "car_brand": "Mercedes-Benz",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mercedes-Benz/GLA-2024/9731/1679039244149/front-left-side-47.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Red",
+            "White",
+            "Black"
+        ],
+        "specifications": {
+            "engine": "1474cc Electric",
+            "performance": "374 HP, 18.8 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Electric",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,306,134",
+            "ex_showroom_price": "\u20b92,221,788"
+        }
+    },
+    {
+        "id": 19,
+        "car_name": "A4 Premium",
+        "car_brand": "Audi",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://images.overdrive.in/wp-content/uploads/2021/12/2021-audi-a4-premium.jpg"
+        ],
+        "colours": [
+            "Grey",
+            "Black",
+            "Green",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "2312cc Electric",
+            "performance": "314 HP, 11.5 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Electric",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,384,363",
+            "ex_showroom_price": "\u20b92,212,124"
+        }
+    },
+    {
+        "id": 20,
+        "car_name": "Q5 Premium",
+        "car_brand": "Audi",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://media.ed.edmunds-media.com/audi/q5/2020/oem/2020_audi_q5_4dr-suv_prestige-45-tfsi-quattro_fq_oem_1_1600.jpg"
+        ],
+        "colours": [
+            "Green",
+            "Grey"
+        ],
+        "specifications": {
+            "engine": "1435cc V6",
+            "performance": "133 HP, 18.0 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "V6",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b9766,461",
+            "ex_showroom_price": "\u20b92,586,298"
+        }
+    },
+    {
+        "id": 21,
+        "car_name": "A6 Sport",
+        "car_brand": "Audi",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://imgd.aeplcdn.com/1280x720/n/cw/ec/39472/a6-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80"
+        ],
+        "colours": [
+            "Green",
+            "Blue",
+            "Grey",
+            "White",
+            "Black"
+        ],
+        "specifications": {
+            "engine": "2662cc Electric",
+            "performance": "331 HP, 17.6 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Electric",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,943,448",
+            "ex_showroom_price": "\u20b9740,599"
+        }
+    },
+    {
+        "id": 22,
+        "car_name": "Model S Premium",
+        "car_brand": "Tesla",
+        "country_of_origin": "USA",
+        "images": [
+            "https://b2232832.smushcdn.com/2232832/wp-content/uploads/2019/09/model-s-001.jpg?lossy=1&strip=0&webp=1"
+        ],
+        "colours": [
+            "Silver",
+            "Black"
+        ],
+        "specifications": {
+            "engine": "1897cc Hybrid",
+            "performance": "324 HP, 19.5 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b9807,033",
+            "ex_showroom_price": "\u20b91,909,420"
+        }
+    },
+    {
+        "id": 23,
+        "car_name": "Model 3 Premium",
+        "car_brand": "Tesla",
+        "country_of_origin": "USA",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8zIKeNqYZFI_GwTQofhuHdaB8ojHFuhNFVg&s"
+        ],
+        "colours": [
+            "Red",
+            "Grey",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "2843cc V6",
+            "performance": "168 HP, 18.3 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "V6",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b9846,621",
+            "ex_showroom_price": "\u20b91,717,175"
+        }
+    },
+    {
+        "id": 24,
+        "car_name": "Model X Premium",
+        "car_brand": "Tesla",
+        "country_of_origin": "USA",
+        "images": [
+            "https://hips.hearstapps.com/hmg-prod/images/2025-tesla-model-x-6734b3d48460d.jpg?crop=0.702xw:0.633xh;0.149xw,0.179xh&resize=2048:*"
+        ],
+        "colours": [
+            "Black",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "2135cc Inline-4",
+            "performance": "373 HP, 13.6 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Inline-4",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,432,516",
+            "ex_showroom_price": "\u20b92,255,642"
+        }
+    },
+    {
+        "id": 25,
+        "car_name": "Seltos Base",
+        "car_brand": "Kia",
+        "country_of_origin": "South Korea",
+        "images": [
+            "https://stimg.cardekho.com/images/carexteriorimages/930x620/Kia/Seltos-2023/8709/1688465684023/front-left-side-47.jpg"
+        ],
+        "colours": [
+            "White",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "1510cc Hybrid",
+            "performance": "294 HP, 16.1 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Hybrid",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,525,689",
+            "ex_showroom_price": "\u20b92,511,002"
+        }
+    },
+    {
+        "id": 26,
+        "car_name": "Sonet Top",
+        "car_brand": "Kia",
+        "country_of_origin": "South Korea",
+        "images": [
+            "http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOAGo2LWk3SwUHkNj69ezSTAVSpKeJNdavDQ&s"
+        ],
+        "colours": [
+            "Green",
+            "Black",
+            "Red",
+            "Silver",
+            "White"
+        ],
+        "specifications": {
+            "engine": "2876cc Inline-4",
+            "performance": "376 HP, 13.6 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Inline-4",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b91,248,840",
+            "ex_showroom_price": "\u20b91,998,282"
+        }
+    },
+    {
+        "id": 27,
+        "car_name": "Carnival Base",
+        "car_brand": "Kia",
+        "country_of_origin": "South Korea",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM9AWskbD2bmquSbSEbRAfXzds7J-FVI9lKA&s"
+        ],
+        "colours": [
+            "Red",
+            "Green",
+            "White",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "1654cc Electric",
+            "performance": "270 HP, 22.7 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Electric",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,184,042",
+            "ex_showroom_price": "\u20b91,969,413"
+        }
+    },
+    {
+        "id": 28,
+        "car_name": "Polo Premium",
+        "car_brand": "Volkswagen",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzdrZXzw1I7VRCK9xEufuxtxGII7lj6oyqQ&s"
+        ],
+        "colours": [
+            "Blue",
+            "White",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "2133cc V8",
+            "performance": "374 HP, 15.9 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V8",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,086,349",
+            "ex_showroom_price": "\u20b91,409,634"
+        }
+    },
+    {
+        "id": 29,
+        "car_name": "Virtus Premium",
+        "car_brand": "Volkswagen",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://imgd.aeplcdn.com/642x361/n/cw/ec/184551/volkswagen-virtus-right-front-three-quarter0.jpeg?isig=0&q=75"
+        ],
+        "colours": [
+            "Grey",
+            "Green",
+            "Black",
+            "Silver",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "2056cc V8",
+            "performance": "288 HP, 12.3 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V8",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,538,745",
+            "ex_showroom_price": "\u20b91,422,767"
+        }
+    },
+    {
+        "id": 30,
+        "car_name": "Taigun Premium",
+        "car_brand": "Volkswagen",
+        "country_of_origin": "Germany",
+        "images": [
+            "https://stimg.cardekho.com/images/carexteriorimages/930x620/Volkswagen/Taigun/10260/1732021128009/front-left-side-47.jpg"
+        ],
+        "colours": [
+            "Black",
+            "Grey",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "1497cc Electric",
+            "performance": "171 HP, 11.3 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Electric",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b91,331,666",
+            "ex_showroom_price": "\u20b92,304,107"
+        }
+    },
+    {
+        "id": 31,
+        "car_name": "Magnite Top",
+        "car_brand": "Nissan",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://stimg.cardekho.com/images/carexteriorimages/630x420/Nissan/Magnite/8127/1608191740345/front-left-side-47.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "White"
+        ],
+        "specifications": {
+            "engine": "2252cc Hybrid",
+            "performance": "104 HP, 21.0 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Hybrid",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b91,194,156",
+            "ex_showroom_price": "\u20b92,388,342"
+        }
+    },
+    {
+        "id": 32,
+        "car_name": "Kicks Base",
+        "car_brand": "Nissan",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE7QKrzzsL2AbyR1i5jM_ID-mOtZpr1XDdQg&s"
+        ],
+        "colours": [
+            "Silver",
+            "Grey",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "1853cc Electric",
+            "performance": "187 HP, 20.5 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Electric",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,937,868",
+            "ex_showroom_price": "\u20b92,790,227"
+        }
+    },
+    {
+        "id": 33,
+        "car_name": "Altima Top",
+        "car_brand": "Nissan",
+        "country_of_origin": "Japan",
+        "images": [
+            "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExMWFhUXGRsZGBgYGRseGBoaFxsYGBoZHR4bHiggGholGxgYITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGhAQGyslHR0tLS0tLi0tKy0vKy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLf/AABEIALcBEwMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAADAQIEBQYABwj/xABIEAABAgMDCAYGBwcDBAMAAAABAhEAAyEEEjEFQVFhcYGRoQYTIjKxwSNCUmJy0QcUgpKy4fAkU3OiwtLxFjM0FUNjkyU18v/EABkBAAMBAQEAAAAAAAAAAAAAAAABAgMEBf/EACwRAAICAQMCBAYCAwAAAAAAAAABAhEDEiExBEETUXGhIjJhkdHhBUIUUoH/2gAMAwEAAhEDEQA/APFp/eO0+Ma76OZbrmP7vnGVtCyFqrnI5642f0ZJdU1/d84mXBUeSL0mkftM3aPwJijXKjU9JkftM3aPwpignIiUNk/ojIdcz4R5xpsnSv2Ve2Z+IxTdB5brm/CP6o0FgT+zL2zPxKhSBHm0pAjbfRvJ9NM/hH8SYyNnThG6+jselmfw/wCoQ5cBHkvcjJraj74/AI8xy0j9pmD3/lHqeQ0/8r+IPwCPM8qp/apnxmCPISOybJ9GmmnxMei9KktYG/8AEPwiMNklHokbPnG86aUsBOiUPAQnyNcDOl4Asx+DyjzeVL9Kj4Vn8Mei9Na2ZQGNzyjz3JqDflvjcmfiRDjwJsl2+U8lfwnwj0DpYn9kw9TyjE5Ql+hX8Mbrpaf2U/DCkUhJQfJ8ks3oUfhEeaWVHpR/CB/mj04n9glUP+yg/wAojziyI9O3/hTzUYI9xMnWpPo1bD4RZfR1K7av4Q8ohWxLSl/CfCLP6PJTLWXwlJptg7B3A5UH/wAhZvi0aG4Ru7AQL7kDtadSYw1vc5Rs41mN7kkuFn3j4CJ8ivMMZqWxHGGqnJ08j8okKiLMz74Ggs87+j0H67aDj2V4EH/uDXSPRutPsn+X5x5z9GbG12gjG6X3zPyj0locuSY8AlqUfV4n5PCyLwfsjcr5iCNHS8+wecIoeiZpChufweKrIc0KE0gisym5KB5RcPFN0eljq5gIB9KrEbIS4B8k6ccPiT+IRRT7QE2meo0pJFdivnF7NkpDEBmUMCWxGbCMzlO6ZlqchvR1zBkAg7iRDiDLuxkGYnAhleUUFle8hh2b84k0zzlt4iLfIyXUkFiyVVFPY3iKSWT1YZTd47XWfNoZJo5Mtw75z4mEg1gBuCoxVm94646JGfPlpl9tVfWPjGz+jJHambU+cURRZXN8zSpy4DM71amEXOQ8qSrOmZMky5pSGvk3aPQUvA542luiFsyT0lR+0Tto/CmKGaiNBa7cFLUpdlWVFiXWlOYe/oaETOScLJL+1OR+cJIGwfQqipuwf1Rd2I/syzrmfiVFdZrcpD3JFlQ+LTk82TAU9I5gUZYFmQkB3Kz1ZclwGYFTg02wmrBMzVmjcfR6n0kz4PMRWJy5MzTbGPhCj5wUZZnKp9ZlfYkzFfOG0FmsyOkj61j/ALtNfYTxjz225PnG0LIkzCCs1CFN4Ya4s5uVVgFRthSkFiRZFEA6CSKGo4xHXlab1gH1pZlsbyhIZQUGATdIfOKwJUDYfJOS5wlIBlqBu4Gh5xruk0gzbL1aAFKugM40azGQTbrwcWm1qBqLstIG6C2qTNQm8s29tN5CRXVegaQJs13SeR10kolkXmAEZOy9GJ4WlRKAAlQxOKlJIzaBA7XIVKQVzpVtYVJM9HgFRGRMkqISLPOUVJKgFT2oGrzECoHZd2vo5OXLUlKkEkNiR/TGi6USzNkFEsXlMA2HjGA+qJkqXOMh0lmR1qhcxc3hVWbjF9a5NokJv9QgDVaZpNaYXWhNIabNHaEtY0I9YSkpIFS4SARSMBJsikzzeSoDqkCoPtKcVjSWhVuSgLaQBdBquYosa+yK74pZvSO2dYJYEp2SSQFEAKJHtajAkDYuUkgSV/CfAxa9AAAZv8NHnEC22ueEKVMElQAJICVV1VJ8Is+iE4KXMULiewHCWq+HBjxg7D7gTXKEstn8lRsslglKmJHaOjQNIjHSlp+vocjO1a4Kw0xsckr7BoT2jo1a4gZKUk+0eXygapYYlzxMEc+zzEBmzCx7PP8AKAZ5v9GSibRacMBgAMVq0BzhHpAljOI82+i9uutJFTdQ709ZWesekICjmA3n5Q58ijwdMkpp2Rwh9lkpr2RwEIqWr3ecLJSsP3eY+cSygkyWACzimYluGEUXQi0Km2brCQCpcx6U75HFhF1OKgkukYHAv4gRnPo5U1glYlysuAW76t/KBcCfJpZt6jse0NI5VjG5ecqtbZlofdKlnwMa+bMBYV72cHQdIjOWaWkz7YCHHWpDavq8h4cRMmdHWUQQ47J8URSSpd5MpL0LHc6vk8aHJcpKVsjsgJNN6dMU2Q5IXJs8wmvVpLZqpP8AdDEaawPcwGKvxGOhcmqPVigxVn946oSJKPnu1zDfVQd4+JjR9EQFyZ4IcFSKZjUGMxa1C+qvrHxMajoS3VzfiT5Rs+DJFvlA9tVdH4RFXaBFjaZtV7s2yKu0zIlFMt+iRYzdg84WxIATNOlCzxUflEfowv8A3a6PODyj6FdfUP4lQgKKzCsavoie2tz6ubbGRkLbRGk6MTKrNHbHPs2QMaLCUlK5NrQqo6/DYiURzjGZRtCrs9QJpNWBh7UnVrMafJq+xaa4zv6JcZS3/wCxaD/5V/is8VEmRb5IX6GXm7ApujW9NZzWYM79nOdIjF5JU0hOHcTmwjTdMD6EBzinxES+S+xP6Zzx1Khnultzxg+j80qtUwF6BYDqJYBaQwBwEa/pOxlq+E+BjGdHP+VO+2N5mAAbTohx4JfJoukX/EUQXcc3VFz08tA+rTKDunxifI6JTbXLCZiTLlsHeii2od0ba6hGrl9DZah6QqWdfd3AuIdeYtRicpznsoS1eqFPsxjuiVimgzL0laRdS3YUHLl82yPcV5FkSkuXAzdlPyirEpCiWWoDYAw4Q4qK7sTbZ5/b7FNVLWBLWSUkDeNcR+gFknyFTjPllF9KAmjuxU/dfSI0OW+kiUBSZKFKb/uKUCnaAnHjGHteUlqJJmK5N4RtHHBre/Yyllae1F5Msc36/JnXfRJvXjSjpUBTHEjCNlk7KMtCCFFu0Tgc+6PI5tuX+8UT+tUctVoDFRUkF+8MwxbiBtIivBw8W/svyLxsnkj2dOV5JLXw++Gz7Wi6WOILUPyjKdDrFMWm6lgpfaUot2U+qAdJx3xuLN0bkJSVTiVna/PHiYjLihCWm+C4ZXJWea/RpZVy1zzMQqW6ZY7YKXYrwfHNHoUqcn2hxEUsqQn6xMkgqCSrsEEA3V1Q9K1C0fYBxi2l5MtCD2SVD2VAl94fwjN473RSyJbMkCcn2k8RCpnpr2k8RDLWVIuiagyycHwOGBHgWNRBZJpGLNUwdsm+jWQfVPgYoPo4/wDr5P2vxqjRKlpNCkHcIEmxy0ICUpAAwbefGEOhZ5w+LyMeTdL7QpNtnsgGqah7x9GjON/CPU5qapZ8dJIwVmePHumv/Nn/ABD8KR5RUSZmz+jy0LUmYpRNCzKJNKGjmkZLJ3SWbLSlKZirqQEpSUoIASKDB8BpjT/R04kTSNJ8BHnllmGgcxXdkvhHuuSpiupRQYPjprohIZYC0tFDgNELGRoVn/TZfsI4Jgkmxyw7CWNPdETlKzUbn/iGXdUakAfqks+rKP3fnHGwSj6kvgmCFAzgRBtGVJCJqZRUAtTMPiJA5huEAiSmRKGEtOtgIImyy27iW2CGqDnH54REyvliXICAtN4rJYBjRN0qO4EQPYRMOTpJ/wC3L4CHyrFLDtLQNgFRGQmdLkuD1IADk/C3ZzUq0R7V00AWAmWi4SGUQSWpe36IlSTCzdCxS69hNdQhgyVJr6JFS/dGJZ99BwEZWR0wkFnlEdlzQHtUN0bnr4QC1dLku6JIujF2cUB2ONGd4NSCzXnJ8h26pDt7I+UPnWOUtgpCVDWAcNsZfJvSWTMSVLWmWoUACiCqmN1NRzhJNtTPXKM2aqRKGslS1GpDh2bBzhmAJcbRhat7EudcGiUhMxfVSpSZixRT91D17RYuW9QVqMBWNP0b6GyLOTNWlHWGpISE44sE90cznJg2QUWeXLAlMEjQC9amhD104mJ07KqU4InKOkSZx4MhohhyWi1ACgAGbMNwiHarZR3dtwEZy29KQAppM9Sw91JkTgCRrKGjA9Isrz59Fy5oD+wsJGhgU84cY2KTrsaXpL00kpT2T1qnYMWRTEuO8M1OMYDKfSFc1KutWQijSkG6kk6c52qeBqlKvpX1azcwSxIpsDmtYr8uZT61IQU3CkuxBGqrh9PGNlFLgybk+QtkywhToVLLEMkXqkjBOAxweJOVrDKl2d1UWlLAuzqqaAmoc8NkZhDAhQWxBBDA4isLbZxmG8oqWo7X5BgIbTFQyRa7qnMXmT0KmrSVuQMEnNoTxPM5mijsVlWtY7Kro9045s1W+UaixLTLKX9Q1ejqGbdhvMdGGOiLyy5Wy9fP/hM/iagu/Pp+ze5KlLloCUkOamgcn5Rq7E7ATXTmOGfPHjOUulUmYol5zZgFKSkDYAIFYuliZSnTMn7HdGwpWrDWGMVLpouNucbMlmeqtEj1bphk8I6mfLJIJMokZi3WIJzhlIUB/EjR2bKiFSZc1SgnrAMSAL3dIrR71GjFzQE5PTJRJtKpk0S5xUSpTLvIUEKXNVoG4E6S83o/bVfVZlnnJu9slJ61DAKY16tZUauWzuxaPOp9ju2rcu8tzklJcpJQL5Sc6CGW4zi6TqcCM8mzTpU1SEJK5a0dcmr3AClCk1q15SSlne+oCiYqjZ1oXLUqaEBNFq6xSlKDCib0hk1fOWch6xa5AyhLl370zrVL6tBfNLlBRCQxLqMxalEsmjDNGihJqmiE6fIRFpVjTgfnQwq56jo5/OL0WZM5JvIUlu6s0LaPe3xR2uSqWohQpmUO6X15jqPOMpY2jVTsGqYaUFC+OojzjHZa6EmfOXN666Vl2uO1G0iNjCFUQtinuUvR7I5sspcu8F3nqzZmwrGWldAJqVA9cgt7p+cbrry7UgqpidI4iHwIWzzrqUpINABmjoCZyfaTxELE2h2RT1WZVo4GHyrYGa6v7qvlFUMqz/3iz9tfzgqcrTvaV95Xzh2VRIyjbTdDIUdiT8owsxM5dtkK6ubdE1DkoUwAWC5JEbI5WmHEr3KV84PZbcpSki8tiRQlxDsTRZS1tSjRh/pQtBCrM1KThsfqo2FqmpSkqUWAD7KV/QhLSxlhZlpVMPclrVTtGhXmdqttrGkYOWxm2lyeYZHyVa5wdKSmX7S+yndp00EW9m6HSwAJk5cw1ICBdQ2epdRGAcDRG+lSwQOsUhSgKlwEAtgkE4P+s8LZuj8gKVMmTL6lYlSqEaGolhmDR0QxY48mUpSfBkbFkeWHRKlpBGYuovmcqPgBFlZcjz2YqzVDAJ3MXEa4W+wSKKVLcZnfkkEDZEa0/SFZEBkAn4UN43Y2jBv5YkOSj80kZYdAEkklCq17xA5N4xPs/QsoqlBB03yT+Mwts+ksepKVvKR/dC5L6UfWETFzZpkhBT69CFPqDmmADxo8WVK2iFPG3SY9PR8pL9gKzm8AfMxIm2adLSVmbdSM/WEDyikyn0+CAUWRDnPNmhyfhRm2qO6KqyZKtNs9Pap9ySK9ZOLJ+wig4ACNFgklc6S9xPIuI7s1NlylOmdybOUNIWoDaFEgHc8SBabXnnLPu31EjbgGiot/TWzSUplyEKnqQLvWzGSC1HYBzwEYzLPSifOfrJl1J9QdlHD1t7w44G95JJfUTnWyds39o6VmSq6qaVt6qTXeU4cYqMq9KfrACVSJQSkveU96tHLHtRhpSZyx2ETCNSSBxLCJyclTAxmMgkO1VEajgEnO1cRGsIYNVLd/QxyPKlbdIvbAiWtyrq8HCU3Qd7jwIifZbBeSVgJCQMTXDR/mKjI6LqgCOyaEhQB4jtDjGin5HkzbqggqGDqWolxQ4qLMYMsnF7IWKKkuQJky5bBdoQmlcCeF69yjz3K9mvrIQr1lM5ABc0ZOLkeMafIxlz7T1UuzgoBLzC6glgWJvUD4Y56RAylOk2aesCy+kQspdalM4zhOGsRjNOXwyOiNR3Q+xdHpJSkGyLUpheUqYpLlq0cFn1Ra2Lo4hJBTZpCTmvBc08FECKY9K5pqFIl6gi8edIDaOlM9Qbrpj+7dQN10OOMTHp15DeRnoUmzTMVzF/ZRLQOYJ5wyRbrKpJmhZWgUUpU4qSDrqUjY0eYDK828FFZUxBZZKklsygo9oajEnKnSWfPliUtQEv8AdoSlMsNhdSO62ptkN4d0NTdGwtnS+wy/9uXfPuBhvJA5AxRTumswqFyUhCHDpDlRGcXjg+kB4yTwomtFrHFbEttnreSVTJstE6YpcqSkEBEq0ru1U3bILuADjpaNBlezdRYJk6QV3rpAvTFqId3UCtRwD4c48RyfPWFFSFEEAkl24nnujSZL6bTpiRZ1lC0Am6wUCCQQAxoQ5AfMI582OKVJmmOUrssciWpSpCCpaie0D3i7KUNB0RPlo7SXJxGIOnWIJk7sSwhh2SoUcesTrpWJYmdoYM+v9PHhywLVydjWrdktqvGfA1jiIvOvDmo2xXqW+d4vNj11uJKyJ1f6pHRJfV/L+cdGH+L9Q0A7g9oDcYS62cb3gZTt4/lDwBr3vHSaCqCv8Kh0ld1QJGvT5Q27+njlD9fp4YibMylJTLWuZQJuEEuz30ZsSWwjrDlixrN5VolpOi6q8BwxiD01moRYrKhPemX1uboTdCmVVRYqBYVp2a5o8/tVoUQXUlQzDs1/9aSAdrR1Qm4qjnlFN2exI6V2OTWVdmH2lzEITwUoEcIpst5Xm21QBnyEy8yROQUg67uJjzKw2RUxQTdCQ9e0xIAcgEkAHWYurfkK9Z1zVSZUpUopIImg3kKoQbyi5BKTe1xvj6nQ7UVZjk6fWqcnRZ23Jq5edKhpQoEcq8ogrlHODGVUEBRHVLcFizYimanCJ1lmJcApUH0Bd7wjsj/Kf7Q9/wBHK/4+vlkW5ljPAZktOJoNZpziNbAlAf0wUWooqBY5w74tFnkGXZTOl/XwqVZ3dRAKiohiEKZ1AEVKmwzesKl/JwraG/r+hx6GV7zJuQ+jc201lSJs0aUJARtK1lKeF6LPLfRiah15Rt8iQwohUzrZ5GYJSlhuAaNR02y/LtFmRJyXaJqZaA3V2azT2XmSkTUABA1AHW8eaJ6CW81XKTZwrE2iahBLvVlG+TjmescM+tzTe23odMemxwW+/qT0ZNsySCD1wx7S6F9SGDbRFlk3Klls8wHqJAzkBIKrudqOk5qRRp6Ey5bKm21D+zIlLWdylmWnfFrkHI2T0zGu2iYcQZiwlLj3ZYvD75ifBz5Fqab9R+Phg9No1q8qSBJVPlI9IQKL7RlvpqbrbfOMhNsSySskkmpL4vBLQtKnCZUpCQcUpqW0rWSs7LzQK05XTJQSAp2N0NRRzNqwdo7elxS6dNyq2c3U5IdQ0o3SKPLNv6k3aFed/V269UZ6Zl2cVXutmPpSop8CIk2aQZqlTJhKnVvUoxbzsnSlJZQSDhRnB26Y5+o6yU5bcG+Dpo44gsndJ7T1JQkpUke6Lw2gMFDWxiqtdrVNVeNVFn1kBn1lgK6ojFKrNOGjxScf1qjTWaxywygmpfnDw5L3Y5xplCmyTD6pgqMmr1CLTPDgY38QiiuTko51cvzgycjJ9oxOEPYxLmxqJFGRUaTxhf8Ao8v9ExOSNsNVtiNbL0kGbZkJZADBXaVrCcAdT13RCt1jTKmSpsosCoBWpyQ7ZgWPKJ8t1zFNUAAHWk0XXMRUjS0NywkGQ4wCRUe0llEvtB4GOPJK5NmsVsegGzOSQMScOB5iGCynSRw+cX9myTLmgzCVdo6cwASKHUIlp6PSh7fEfKOSV2dCqjKKsxxfipPzhBZtJTuUn5xrDkGUcxO9ob/p2T7J+8YXxD2MqJCfd++PnHRqv+gSNH8x+cdBuGxlV2Y6DuMNFnIzQwTCasANdIQ2lZw+fNoAHmXqG+GT0m6WbAsX/OJciyT1+optYNd7NzibLyTMFVLRLGtVeVOcFiMxltXW5KlqNVSJykmtQFi8jMfXQqMIgirpKqe9mreYEcxgTSPQbDJJl2+zIIKlJMyWoV7Uk3mLVqkED4487BIWGIAOBZLMaPUv+jHQZMlpmgV6sDS7gEGhDFzUFqZniPfSVAAdWh73ZvFTsQFG8KtooKnS8NvqYggtqMxic1AGPKGpmM7pzHFhtYTCa7K6IBB03TnWTtTmrpBaBoIvOLqX0XCRxUSYEif7qgwxIHJk4wqFoAJN5sHKSwJwwIrABY2WfMVMEtMtCyVMgqCqN6wAUGDBy4zRoukMtFmLqUDNWkAAAdYlvX6wuUl8wpSgzw3oxIl2Szqtsyql0kpNCRmOq8RwS8Zi22tU1apiy6lFyfIahhG2DFrlb4XuZ5Z6VS5LOzW+YtQK58ymcrUVbiTSLublBASwmhIzuS5JxJOJJjDrmAQBSyY9GXU48SpR3OJ9PPK95OjXzctSE4rUs6EpPipvAxCT0nUlYMpAScO12qGkZ4Ih48xHPLr8snXY0j0OKG9blla5k6Ye2oq1UA3AMOUBEm4kkjtMydppDkLjlq7SB7znYIvLNqLHjVtE2WBKllbOEBtHxb8fygllTNVOMtCrxWUBIJNw31EIvAeqOzsCdUDXMQhIUu+oMQsJ7QANe0HBGer+rmzulKVZyFBJUpKLqSKXqrQhQfBNxSqmjkNhHnI7GR+k9nSUlSS4So3TpQSQOYifk6Z6JD4sPCIFpT6FQIAId2FHcKz1OJrpBiRYS0qX8Lxth5aInxY+ae1TPWOSqI8+eaXUvrzcYRCZp0DUB+hzjrcGuTBST4JiFRxtKRiRsf5ViLNlgBlrA2luTwJFpkJwqdnmYylKC5f2NEpeRZSrWFd1zmdobPWwc4aaNzMRk5Ulse0UlqFgWPGvKKO1TipZvLKhmOD62ctGTzR7IvQ+7NBkFbrKmfFVAolwVKTgRRyAxoSQM8PyTk5VpUJRWpCphUClRJlgMpRUkZiAFADU2YmK3I9qKFMCQ5SaZykggHU4jWdDhcnFZqEBQHxLJLZsEkv8Uc7exoj02WtgwIpgKtBhMO3fFIjKD1by8oIm3tm84yLLTrjoHGE+t6qaniu+tg4jcxflhHdft4QAWJtWvwhIr+sGcnj846GBQpmWGXgFzVDSSPBoQdIwn/akoRrZzFVZ8kT1YJbbFrZujCj31tsjCzSiDaekVoUpusYaAG/OI3VzZhFFK2v4mNbZsiykVuudJaJd8JFAAILHR5JlG2zpUxYTJUiYFdiYbyFADEJYi8DUku3a0Rn5aZlCJQU3sEK3EdrhHuK+kCZRpMr7vzNOcVGVekEmY/Wokr/iISvxDDnHR4rfYx8NLueSLXc70taHBFbzMdRamqElWpLEBRGhgzeLxr8uW+xrQ0qV1S8QZKrgO1I7J4PGQm2iZnUFD3gFfiBik7JaFE8MfSBW0GnENBrBKSubLQbt0q7V0IvECrDWaxCNpOdEs/ZA/Cxjk2hGeSncV/3RS+ojW9JJ86esBMpaZSAyE3cBg9NQA2ARQzLLNGMtf3T8oPZekhSwKVFOtTkbCwptfbEr/VCPZXy+cepifTuFKVep5uR9Sp/Kn6FcrJU9rxlLb4SfAQEyLpZZun3krH9MXH+ppbN6UfCQPOIVpyjZ1l1derat/wCqOOWG3euP3/R1RzOvkl7fki3U/vE/dmf2R00JYXV3j8JHjB0W6zDCUs7SD4kws3KchQrKJ0dpm+6KxHhJf2Xv+CvFb/q/b8iphL3bGpPjSBjKwHdlJ2lyeZblAk2grXfIAoAwAGFcwAi82SLVJhig1uy1lTylSerQCu6Lyld0JzOM+B/WDbdb1TVSpalKASAlEwE3gFpSQHxu7NLwZFUjtXU4KOdgNOxy2kCAz5pmqWbp7YlsB6ugJ+EFNMwEcyN2OygFJs56xV43gAqgcHA0xDNpiEMrISlKQkkpSA+FRjXGJOWkFQTLRUJxbB84Gr5RGs2QJivVMNTcd0xONgF5YWe6lKdeJ4xHmWuarFat1PCNPY+iSjjvr5Vi5s/RFIahO9vFolzvkaieeosajmNYnSMgzVZmGukej2To/LR6nCn+YsJdgT7I3s+zPE6itJ51Zuir4qY6iIsZPQZJqVLHDyjeIs6R6oDan5v5Qolg0r+tghWwpGTkdC5KSDfmnYQPFMX1isSJaQlCGA0qO8knExYS5IBckAawn/MFIAL46MIBgUSXzcPm3nDrhGaFBBzk76eFIUJA/VN7DlAAgVUOPDPuhyVJ/Q+YjurzDlTyhoBwcNtJJgAKmaNI+9+UdAy+ZHh/dCQAXyZWqBTFAFqk+6CeJwG8w2akmqlFmwdkjc3i8D6wA3QKNQhJKdlE0jHSaWItKtDbn/Lxirt0tJxN46Hfk4APyi16u8zrSasWVdbcC52Ew9NnriVDl5Uh0KzDZQsM1QLSyG1bM7xnLXk6YcE11Y+D8Y9UmSQkj0csaxdT8zHLsqVBi1fi/KLsmjxW05JmpxCt4/OIK7EvRwr4R7ZMyQgd4IbWEpA2d484gzcl2dRYoDn2byhybwh6idJ42qzK0QJUqPXZ3R+V7KwNJSltwHa5RD/0ahQcKbdd8Q8VrFpPLTKhplx6UvoM+Ck8CrnSI8zoQoEB0neByDkwag0s886uE6sx6F/oVeYDn5ww9DFBnSx1luYh6haWYDqzHXDHosvocQasNlXixldEKdx/skHiYWoek8qZWuDInNjHqx6KyvXTd2kt4MeMOR0es6aBlH4aeLQag0nm9kygE5w2g5xF1YULWfRSSkqp1hBZsO8aHYI31jyZKQAVS0vmKkpZ9UT0gk0vHRRSU8T5QtRVGcydkIpA7G+h2v3Ys5dlSGGJ2U5Xmi0TZsXCH3LJ4sfGHCVqKtxQn9cYQyIlDVJGwPn105iCFOgjhEgSy7ghhiA6j4PClCm7hU7YlIHMAjhngAhqTrT5+FYJKST6p4/3F4k9Uts6fhBNNX+IGkG9QE6SVYbnpwEAhiZb4J21HlrhRJOo7T8vlBFyM5JbQAObV8IbLuh7qUjSSa+fCkADVOBTNmSlnO+FKBir+ZT10aBCFSjnCtQw4/Mw9KCxN1KS2JDttY+cAAzPrTNnanNuTwxVdY0vTlD0rBbFWyg26uMFMsYskcPyaGBGBAow2BP6phWkNWnU2t9/6rB0IFWctrAFdjCBTJSQ5VdbWXG2uEACBSTWOjgo5jTNQ/2wkAF2QWqGz9o+FaQIM7m/XaU8KgQpBCgTdSc5Yk8RhDpoURSYo6gkDnjwjMoUyAqoFPsjianlAhJQPa+yor/lNOAhF2V+8Ev7xJPOsOkqu06x9QLB9V7+6GA4yWFL5riAgHe4AgSpTUvJKtEwlzuAbyiTMSQMAfiP5GAdYgUSbv8ADw5OOIgEBWkjCUNqHH9IcQ2beGMwh9KM+i8acYfMtJdvSK1nsjYbjH+Uw+8D3VICs9Lx2Yg8YYA0SC95Uv7QUATtAIHOFVePZSlaWzlm3FlPDOsqxlktnButrdQTyJiTNK9IQNJVe5ENwMAERT57q1fa+Rh8pAIN5KkawlPzVHTFkf7i740JSQOKQo8SBBUSUEOhgdSy/JxAA1MtDFlKOlwv8hwEDTMIBuoIAwdV0eB06IXrQDcVOdfsoulXBnppaCGyEYIUsn94pJHMgjhAAxKlqxY/CyiN/wCUMuKS9FqfOug5Gm5MSVoQGvlKDmYXdwV8oGZqR2UmcdBKeyPtLDHjAAOUuncAOhKvFwIcEpPfV9kgkDelhxEPl2cqHbUhYGlXF2DQ0IKaJSUpOeWbyedBuBgAP1SAXaXoFA/nDDj3FfeZO8XvKOmrZJdRGtSWHgBEWZOSPWKj7r/0U4wAHUZgYkpSnnxu+UOs8pR9Ve0lLHd+QxhqEqWxCrozi89dbH+qCLRLRjcCjuKieZJ3mGA2YopaoTtYB81RTlHKk5+9ma844KoIZJkKxClJfFhiT8QKvCHrUvDsnN2hdD7a8hAAKcC3aKUpz9l234coEian1AVfa/u8om/VTjQH3K0zYjyjpqsxBO0foc4AIiEZ1DNVwVcwW5QJdrBog3vgbxUbu6CmWJn7sgH1S5fwHOEvp7t4k7AVV1AflAIS6rQoYZkn8LwO+DUJUvWXLacaCDAISA7EnTn1M3lCKXilCACwqeyK6GFcMIAOUcXIG0fOI5my0nC8oaA5Bx+zyhy5JNStRAzAi7zqRtMJJCBgAAPdKfIQAEUsn1gkbS/Og5wJYAzueKvB25QPtFThROZpYvJG0qq+oQy3ocVJbUgg6u16u2m0QAG6w+032THRESgNgr/2k83rCwAXvWTC7gJGa4XV/Mw3MYJOurFQt20socCIAqQtQLhKHzoV2hvUkA76QyXNQKX5iiMXbxlpY7HiaHZIlunAsNYB8PN4UzQaXiR+tApxiKFpJdKVA++T+FTkbgIebURQrS+kJpwvGGAgscsVuDifByIcxoStIGsAK4v5Q1dqQkVF8aUuNzAMd5g8pctgUoQ32Ruo8AAlqGHVTFaw7He4pwgiQpuyUoHxXuIIpxhZgWdQ0JNDtvBhu0RHWgKxl/edVdRLtygAJfVnX1g0IpyD81QMJQ97qygit4luYJ1YwRBT+8bSxBH8xLflDU3VYLUse6zPocADnAI6bLUQ/wBYSEnOQkltSnA5RDQuUSGAmnSFAt95gDqEWckqQOzKSnUCEu+LgAh98MmzqNMS32Lw3mogAEuYrBKE3c9Q/wB2g5wITUgsVTAW7qXA4Ip4mGfV7Njed8Eham3ISW3NEqUlgyElsz3UjwflDAAm0FJFxBrR1JL7XFTvESFTFmvWoTpDVprJDcI5CVjEA6kqbxHmNkDtM2U/pEVZwFC8rcz8oQwpnJ/ciYdIF46cVhm3wirQTm6na/8A+BzhsiclVEqIr6xY8FOpuESTLmA/7g2XacQX57oABy5T1K+s+LBtgYco6dbChqJ3K8qF9QjpqGDrkpI0pbzY8IFIVIHcdJOgM5+0GEACrWiZVSlAaCm7zUm9wMKZyQOwhK9iWDfEaGChCy5cNmdTHezjnDPq/tHH2Az7S5J5QCFNoDPcUM7D8jEazqKiWWl8SFm8sPqBF3nByhCaqmHYssNdKPAkGlJaV1OCbgZ6d53pic/KAYaamYO7d2uX4MM+uI0yneWsDX3d9G4wWWlZAquWdCe1ucuOQga5Ld5bnTMS/CiQM2AhgILReHYZYGfBPH5Aw1EsgYXKksgBiTpfF9kOlpmK9RJ13qbqPxhhsyya3m0A08ST+qQCCKmB2CidV0vyAhiQpWLJ4vyoOJjlquipSlIDm8lhxoIGZhPdIrg4I34uBAARKUhzfJ0uQW3ZoGbST3WO3sjVWr8IGZYoVOTpzDYP84wipzUdycAQC+wBoAJCUnFYc6mamZn8YBabUjukqfQHCv8AGuESiYT2iAMwl4ka38BxhyJASGF4cydpZydsAEZKgalKEnQUuRtIDEx0GNqOsx0ABJdmUD2wZzuXWrDVd7vACJci2hRupQpxik3WGjO3COjoSGEUVEVYau9zLREMhYDiYRqYEfMeGqOjoBDvrYlt1tHN0HEE6KBxwaDSbQkupKLxAqRjzIjo6E3Q0GRfOBu6l9ptPd/ugsyyrJB6zayWfeSWEdHQWAJcpKQ65d5hi4UQB8flDbNaJEwkIReUMboukNrcR0dAIP8AV15lXB7xv8Qz/wA0IizzH7Sr1fVN3kPNRjo6GAGbMkIJBTdVjhU4B3TtGeCdTOVVDJB/eMqmaia/zR0dAA6XY1MyyVPjcN0bmYjiYYidLlggKuBOIKX30qTvhY6EMHOt6iwCAoH1iwDM7s5O6FkhC6JmEakC6Nbu7x0dAAZUgJBU+FXV2j84B9aUoOlF9JzuwOpjHR0ADJa0KVcBCFZ0gF+I7MSDYS1Zq+XkAecJHQwGqsrYJSd1dWPziBNt8tCglZKSQ7N/a4jo6AAi8oS0iswgY4HRsh9mlqWm9dvJNQZiqkZjdAIHjpjo6AQ+1LTKTemgAaQPkH5RFTPKwOqCkpNb5Vm1JLvvaFjoYBGLdrtEZyeYDMIDaJssKa66mwYO200jo6ABDJvaE7KkeXKJMmUpFAEkbweNX3x0dAA20zRgZZ/l8zEUupXfugYpDknPUmg3cYSOgEHuAU7PAx0dHQDP/9k="
+        ],
+        "colours": [
+            "Red",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "2126cc V6",
+            "performance": "235 HP, 20.2 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V6",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,908,649",
+            "ex_showroom_price": "\u20b91,941,395"
+        }
+    },
+    {
+        "id": 34,
+        "car_name": "Trailblazer Top",
+        "car_brand": "Chevrolet",
+        "country_of_origin": "USA",
+        "images": [
+            "data:image/jpeg;base64,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"
+        ],
+        "colours": [
+            "Blue",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "1369cc Electric",
+            "performance": "364 HP, 12.7 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Electric",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b91,086,659",
+            "ex_showroom_price": "\u20b91,155,946"
+        }
+    },
+    {
+        "id": 35,
+        "car_name": "Captiva Base",
+        "car_brand": "Chevrolet",
+        "country_of_origin": "USA",
+        "images": [
+            "https://imagecdnsa.zigwheels.ae/large/gallery/exterior/6/84/chevrolet-captiva-front-angle-low-view-427894.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "Grey",
+            "Blue",
+            "Black",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "2209cc V8",
+            "performance": "301 HP, 12.1 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "V8",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b91,383,001",
+            "ex_showroom_price": "\u20b92,436,137"
+        }
+    },
+    {
+        "id": 36,
+        "car_name": "Compass Premium",
+        "car_brand": "Jeep",
+        "country_of_origin": "USA",
+        "images": [
+            "https://stimg.cardekho.com/images/carexteriorimages/360x240/Jeep/Jeep-Compass/1559651569601/047.jpg"
+        ],
+        "colours": [
+            "White",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "2466cc V8",
+            "performance": "238 HP, 21.3 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V8",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b91,930,744",
+            "ex_showroom_price": "\u20b92,503,066"
+        }
+    },
+    {
+        "id": 37,
+        "car_name": "Wrangler Sport",
+        "car_brand": "Jeep",
+        "country_of_origin": "USA",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJf9TYKa5QKdblwYPnIpo9vsgvPwh2sGTWLg&s"
+        ],
+        "colours": [
+            "White",
+            "Silver",
+            "Black",
+            "Blue"
+        ],
+        "specifications": {
+            "engine": "1989cc Hybrid",
+            "performance": "361 HP, 11.8 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b92,132,069",
+            "ex_showroom_price": "\u20b91,888,645"
+        }
+    },
+    {
+        "id": 38,
+        "car_name": "XUV700 Top",
+        "car_brand": "Mahindra",
+        "country_of_origin": "India",
+        "images": [
+            "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/XUV700/10787/1705466588115/front-view-118.jpg?impolicy=resize&imwidth=420"
+        ],
+        "colours": [
+            "Grey",
+            "Black",
+            "Blue",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "1947cc V6",
+            "performance": "105 HP, 14.4 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "V6",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,794,021",
+            "ex_showroom_price": "\u20b9737,689"
+        }
+    },
+    {
+        "id": 39,
+        "car_name": "Thar Top",
+        "car_brand": "Mahindra",
+        "country_of_origin": "India",
+        "images": [
+            "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202408/mahindra-thar-roxx-200912599-16x9_0.jpg?VersionId=8gFUdclSl6.epCT95iSrtU5MCXzyDyRR"
+        ],
+        "colours": [
+            "Blue",
+            "Grey"
+        ],
+        "specifications": {
+            "engine": "2053cc Hybrid",
+            "performance": "217 HP, 15.1 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,860,662",
+            "ex_showroom_price": "\u20b92,078,951"
+        }
+    },
+    {
+        "id": 40,
+        "car_name": "Scorpio Top",
+        "car_brand": "Mahindra",
+        "country_of_origin": "India",
+        "images": [
+            "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/128413/scorpio-exterior-right-front-three-quarter-47.jpeg?isig=0&q=80&q=80"
+        ],
+        "colours": [
+            "White",
+            "Grey",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "2428cc Hybrid",
+            "performance": "314 HP, 15.6 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,110,834",
+            "ex_showroom_price": "\u20b91,020,383"
+        }
+    },
+    {
+        "id": 41,
+        "car_name": "Harrier Premium",
+        "car_brand": "Tata",
+        "country_of_origin": "India",
+        "images": [
+            "https://www.financialexpress.com/wp-content/uploads/2023/02/Tata-Harrier-Red-Dark-edition-1.jpg"
+        ],
+        "colours": [
+            "Grey",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "1941cc Hybrid",
+            "performance": "191 HP, 15.6 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b91,853,559",
+            "ex_showroom_price": "\u20b9667,902"
+        }
+    },
+    {
+        "id": 42,
+        "car_name": "Safari Top",
+        "car_brand": "Tata",
+        "country_of_origin": "India",
+        "images": [
+            "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tata/Safari/9485/1741331784853/front-left-side-47.jpg"
+        ],
+        "colours": [
+            "Black",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "1560cc Inline-4",
+            "performance": "378 HP, 24.5 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Inline-4",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b91,285,958",
+            "ex_showroom_price": "\u20b91,237,161"
+        }
+    },
+    {
+        "id": 43,
+        "car_name": "Nexon Top",
+        "car_brand": "Tata",
+        "country_of_origin": "India",
+        "images": [
+            "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tata/Nexon/9675/1743060431849/front-left-side-47.jpg"
+        ],
+        "colours": [
+            "Green",
+            "Red",
+            "Blue",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "2961cc Inline-4",
+            "performance": "227 HP, 16.0 kmpl",
+            "steering_type": "Electric",
+            "engine_type": "Inline-4",
+            "fuel_type": "Petrol"
+        },
+        "price": {
+            "on_road_price": "\u20b9788,040",
+            "ex_showroom_price": "\u20b92,475,924"
+        }
+    },
+    {
+        "id": 44,
+        "car_name": "Kushaq Base",
+        "car_brand": "Skoda",
+        "country_of_origin": "Czech Republic",
+        "images": [
+            "https://stimg.cardekho.com/images/carexteriorimages/930x620/Skoda/Kushaq/11795/1741783334851/front-left-side-47.jpg"
+        ],
+        "colours": [
+            "Black",
+            "Blue",
+            "Green"
+        ],
+        "specifications": {
+            "engine": "1225cc Hybrid",
+            "performance": "180 HP, 17.7 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b92,464,372",
+            "ex_showroom_price": "\u20b92,074,492"
+        }
+    },
+    {
+        "id": 45,
+        "car_name": "Slavia Top",
+        "car_brand": "Skoda",
+        "country_of_origin": "Czech Republic",
+        "images": [
+            "https://stimg.cardekho.com/images/carexteriorimages/930x620/Skoda/Slavia/11811/1718796222425/exterior-image-165.jpg"
+        ],
+        "colours": [
+            "Grey",
+            "Black",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "2758cc Hybrid",
+            "performance": "149 HP, 16.7 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Hybrid",
+            "fuel_type": "Hybrid"
+        },
+        "price": {
+            "on_road_price": "\u20b92,108,661",
+            "ex_showroom_price": "\u20b9920,338"
+        }
+    },
+    {
+        "id": 46,
+        "car_name": "Octavia Base",
+        "car_brand": "Skoda",
+        "country_of_origin": "Czech Republic",
+        "images": [
+            "https://stimg.cardekho.com/images/carexteriorimages/930x620/Skoda/Octavia/8447/1623323312913/exterior-image-164.jpg"
+        ],
+        "colours": [
+            "Blue",
+            "Red"
+        ],
+        "specifications": {
+            "engine": "1359cc V8",
+            "performance": "248 HP, 10.6 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "V8",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,682,827",
+            "ex_showroom_price": "\u20b9756,761"
+        }
+    },
+    {
+        "id": 47,
+        "car_name": "Hector Premium",
+        "car_brand": "MG",
+        "country_of_origin": "China",
+        "images": [
+            "https://stimg.cardekho.com/images/carexteriorimages/630x420/MG/Hector/11869/1721899015829/front-left-side-47.jpg"
+        ],
+        "colours": [
+            "Grey",
+            "White",
+            "Green",
+            "Blue",
+            "Silver"
+        ],
+        "specifications": {
+            "engine": "2266cc V8",
+            "performance": "137 HP, 12.0 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V8",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,797,373",
+            "ex_showroom_price": "\u20b92,288,006"
+        }
+    },
+    {
+        "id": 48,
+        "car_name": "Astor Top",
+        "car_brand": "MG",
+        "country_of_origin": "China",
+        "images": [
+            "https://stimg.cardekho.com/images/carexteriorimages/930x620/MG/Astor/11413/1719383205969/front-left-side-47.jpg"
+        ],
+        "colours": [
+            "Grey",
+            "White",
+            "Black"
+        ],
+        "specifications": {
+            "engine": "2602cc V6",
+            "performance": "193 HP, 17.8 kmpl",
+            "steering_type": "Power",
+            "engine_type": "V6",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b92,608,474",
+            "ex_showroom_price": "\u20b9730,352"
+        }
+    },
+    {
+        "id": 49,
+        "car_name": "ZS EV Top",
+        "car_brand": "MG",
+        "country_of_origin": "China",
+        "images": [
+            "https://stimg.cardekho.com/images/carexteriorimages/930x620/MG/ZS-EV/11503/1742472801642/front-left-side-47.jpg"
+        ],
+        "colours": [
+            "White",
+            "Black"
+        ],
+        "specifications": {
+            "engine": "2653cc Inline-4",
+            "performance": "112 HP, 23.9 kmpl",
+            "steering_type": "Manual",
+            "engine_type": "Inline-4",
+            "fuel_type": "Diesel"
+        },
+        "price": {
+            "on_road_price": "\u20b92,752,593",
+            "ex_showroom_price": "\u20b91,290,091"
+        }
+    },
+    {
+        "id": 50,
+        "car_name": "Camry Top",
+        "car_brand": "Toyota",
+        "country_of_origin": "Japan",
+        "images": [
+            "https://example.com/images/toyota_camry_50.jpg"
+        ],
+        "colours": [
+            "Silver",
+            "Red",
+            "Blue",
+            "Grey",
+            "White"
+        ],
+        "specifications": {
+            "engine": "1494cc Hybrid",
+            "performance": "231 HP, 16.0 kmpl",
+            "steering_type": "Power",
+            "engine_type": "Hybrid",
+            "fuel_type": "Electric"
+        },
+        "price": {
+            "on_road_price": "\u20b91,243,238",
+            "ex_showroom_price": "\u20b9618,529"
+        }
+    }
+  
+]
